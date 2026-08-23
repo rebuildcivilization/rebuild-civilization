@@ -1,21 +1,17 @@
-# Contribuire
+# Contributing
 
-## Prima di iniziare
+## Before you begin
 
-1. Controlla se esiste già una scheda o una fonte pertinente.
-2. Mantieni un solo argomento per modifica, quando possibile.
-3. Non includere istruzioni pericolose senza contesto, dispositivi di protezione e limiti espliciti.
+1. Check whether a relevant record or source already exists.
+2. Keep one topic per change whenever practical.
+3. Do not include dangerous instructions without context, protective measures, and explicit limits.
 
-## Nuove procedure
+## New processes
 
-Copia [`docs/template/scheda-procedura.md`](docs/template/scheda-procedura.md) nella sezione più adatta di `docs/` o in `knowledge/procedure/`. Completa tutte le sezioni oppure indica chiaramente ciò che resta da verificare.
+Copy [`templates/process/process.md`](templates/process/process.md) to the appropriate language and phase under `docs/`, or create a canonical record in `knowledge/processes/`.
 
-## Fonti e affermazioni
+## Sources and claims
 
-- Inserisci ogni fonte in [`sources/bibliografia.md`](sources/bibliografia.md).
-- Aggiungi una citazione vicino alle affermazioni tecniche importanti.
-- Etichetta contenuti non confermati con `Da verificare`.
-
-## Stile
-
-Usa Markdown, titoli descrittivi e frasi concise. Mantieni i collegamenti relativi e usa nomi file in minuscolo con trattini.
+- Add every source to the central [`sources/catalog/`](sources/catalog/) directory.
+- Cite source identifiers near important technical claims.
+- Mark unverified content as requiring verification.

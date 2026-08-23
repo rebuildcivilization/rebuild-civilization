@@ -1,6 +1,6 @@
-# Base di conoscenza
+# Knowledge base
 
-Qui vivono schede riusabili e indipendenti dal percorso didattico.
+This directory contains reusable records independent of the documentation path.
 
-- [`materie/`](materie/README.md): proprietà, reperimento, lavorazione e conservazione dei materiali.
-- [`procedure/`](procedure/README.md): procedure operative dettagliate, basate sul modello condiviso.
+- [`materials/`](materials/README.md): properties, sourcing, processing, and storage of materials.
+- [`processes/`](processes/README.md): detailed operational procedures based on shared templates.

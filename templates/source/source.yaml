@@ -1,0 +1,29 @@
+id: source-{{number}}
+
+title: ""
+authors: []
+organization: ""
+year:
+publication_date: ""
+
+type: ""
+
+language: ""
+
+url: ""
+doi: ""
+isbn: ""
+
+accessed: ""
+
+license: ""
+copyright_status: ""
+
+reliability:
+  level: ""
+  notes: ""
+
+independence:
+  primary_origin: ""
+
+notes: ""

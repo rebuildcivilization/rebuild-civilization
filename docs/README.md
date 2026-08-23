@@ -1,13 +1,23 @@
-# Documentazione
+# Documentation
 
-Le cartelle numerate rappresentano dipendenze logiche, non una sequenza rigida. Ogni sezione raccoglie guide di alto livello e rimanda alle schede dettagliate in `knowledge/`.
+Human-readable documentation is organized first by language and then by reconstruction phase. Phases are approximate scenarios, not guaranteed predictions; categories and dependencies are independent from a document's location.
 
-| Sezione | Scopo |
-| --- | --- |
-| [`00-orientamento`](00-orientamento/README.md) | Metodo, sicurezza e scelta delle priorità. |
-| [`01-fondamenti`](01-fondamenti/README.md) | Misura, matematica, scienze naturali e metodo sperimentale. |
-| [`02-risorse`](02-risorse/README.md) | Acqua, suolo, energia, materiali e loro valutazione. |
-| [`03-produzione`](03-produzione/README.md) | Cibo, utensili, manifattura e manutenzione. |
-| [`04-infrastrutture`](04-infrastrutture/README.md) | Abitazione, igiene, trasporti e comunicazioni. |
-| [`05-societa`](05-societa/README.md) | Cooperazione, salute pubblica, istruzione e governance. |
-| [`06-conoscenza`](06-conoscenza/README.md) | Archivi, standard, formazione e trasmissione del sapere. |
+## Italian
+
+- [`00-orientamento`](it/00-orientamento/README.md)
+- [`01-0-2-anni`](it/01-0-2-anni/README.md)
+- [`02-2-5-anni`](it/02-2-5-anni/README.md)
+- [`03-5-15-anni`](it/03-5-15-anni/README.md)
+- [`04-15-30-anni`](it/04-15-30-anni/README.md)
+- [`05-30-50-anni`](it/05-30-50-anni/README.md)
+- [`06-oltre-50-anni`](it/06-oltre-50-anni/README.md)
+
+## English
+
+- [`00-orientation`](en/00-orientation/README.md)
+- [`01-0-2-years`](en/01-0-2-years/README.md)
+- [`02-2-5-years`](en/02-2-5-years/README.md)
+- [`03-5-15-years`](en/03-5-15-years/README.md)
+- [`04-15-30-years`](en/04-15-30-years/README.md)
+- [`05-30-50-years`](en/05-30-50-years/README.md)
+- [`06-50-plus-years`](en/06-50-plus-years/README.md)
