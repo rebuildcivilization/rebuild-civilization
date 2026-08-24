@@ -247,7 +247,8 @@ The repository uses the following top-level structure:
 │   │   └── categories.yaml
 │   └── schemas/
 │       ├── phases.yaml
-│       └── evidence-statuses.yaml
+│       ├── evidence-statuses.yaml
+│       └── completeness-statuses.yaml
 │
 ├── sources/
 │   └── catalog/
@@ -345,6 +346,7 @@ Initial schema files include:
 
 - `phases.yaml`
 - `evidence-statuses.yaml`
+- `completeness-statuses.yaml`
 
 The directory does not contain knowledge entities.
 
@@ -385,7 +387,7 @@ categories:
 Dependencies reference canonical identifiers:
 
 ```yaml
-requires:
+prerequisites:
   technologies:
     - charcoal-production
     - furnace
@@ -449,7 +451,7 @@ A technology should explicitly identify, when applicable:
 Example:
 
 ```yaml
-requires:
+prerequisites:
   technologies:
     - charcoal-production
     - furnace

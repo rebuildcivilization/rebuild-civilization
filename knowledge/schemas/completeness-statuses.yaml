@@ -1,0 +1,27 @@
+version: 1
+
+statuses:
+  draft:
+    description:
+      it: Prima bozza non ancora completa.
+      en: Initial incomplete draft.
+
+  in_progress:
+    description:
+      it: In corso di sviluppo o raccolta delle informazioni.
+      en: Under active development or information gathering.
+
+  complete:
+    description:
+      it: Strutturalmente completo secondo i requisiti attuali.
+      en: Structurally complete according to current requirements.
+
+  needs_review:
+    description:
+      it: Richiede revisione o verifica.
+      en: Requires review or verification.
+
+  deprecated:
+    description:
+      it: Non deve essere utilizzato per nuovi riferimenti.
+      en: Should not be used for new references.

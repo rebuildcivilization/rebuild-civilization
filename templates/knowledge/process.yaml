@@ -58,10 +58,7 @@ critical_parameters:
 
 quality_control: []
 
-failure_modes:
-  - issue: ""
-    causes: []
-    mitigation: []
+failure_modes: []
 
 risks:
   safety: []

@@ -16,14 +16,15 @@ templates/
 │   └── system.yaml
 ├── sources/
 │   └── source.yaml
-└── documents/
+└── docs/
     ├── technology.md
     ├── material.md
     ├── process.md
     ├── tool.md
     └── system.md
+```
 
-Authority
+## Authority
 
 Templates are starting structures and do not override the project architecture
 or data model.

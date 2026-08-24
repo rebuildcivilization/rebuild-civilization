@@ -1,42 +1,65 @@
+version: 1
+
 phases:
   - id: phase-00
     order: 0
     time_range:
       min_years: null
       max_years: 0
+    name:
+      it: Orientamento
+      en: Orientation
 
   - id: phase-01
     order: 1
     time_range:
       min_years: 0
       max_years: 2
+    name:
+      it: 0-2 anni
+      en: 0-2 years
 
   - id: phase-02
     order: 2
     time_range:
       min_years: 2
       max_years: 5
+    name:
+      it: 2-5 anni
+      en: 2-5 years
 
   - id: phase-03
     order: 3
     time_range:
       min_years: 5
       max_years: 15
+    name:
+      it: 5-15 anni
+      en: 5-15 years
 
   - id: phase-04
     order: 4
     time_range:
       min_years: 15
       max_years: 30
+    name:
+      it: 15-30 anni
+      en: 15-30 years
 
   - id: phase-05
     order: 5
     time_range:
       min_years: 30
       max_years: 50
+    name:
+      it: 30-50 anni
+      en: 30-50 years
 
   - id: phase-06
     order: 6
     time_range:
       min_years: 50
       max_years: null
+    name:
+      it: Oltre 50 anni
+      en: Over 50 years

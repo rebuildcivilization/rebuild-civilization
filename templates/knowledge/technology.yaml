@@ -17,9 +17,6 @@ phase:
   expected: null
   earliest_plausible: null
   latest_plausible: null
-  notes:
-    it: ""
-    en: ""
 
 categories: []
 
@@ -52,11 +49,7 @@ dependencies:
   critical: []
   optional: []
 
-bottlenecks:
-  - id: ""
-    description:
-      it: ""
-      en: ""
+bottlenecks: []
 
 risks:
   safety: []

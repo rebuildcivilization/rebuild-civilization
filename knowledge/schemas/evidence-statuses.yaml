@@ -1,18 +1,32 @@
+version: 1
+
 statuses:
   verified:
-    description: Supported by at least two independent reliable sources.
+    description:
+      it: Supportato da almeno due fonti affidabili e indipendenti.
+      en: Supported by at least two independent reliable sources.
 
   partially_verified:
-    description: Some claims are verified, while others require additional evidence.
+    description:
+      it: Alcune informazioni sono verificate mentre altre richiedono ulteriori evidenze.
+      en: Some information is verified while other parts require additional evidence.
 
   single_source:
-    description: Currently supported by only one independent reliable source.
+    description:
+      it: Attualmente supportato da una sola fonte affidabile e indipendente.
+      en: Currently supported by only one independent reliable source.
 
   conflicting_sources:
-    description: Reliable sources disagree on relevant information.
+    description:
+      it: Fonti affidabili forniscono informazioni incompatibili o divergenti.
+      en: Reliable sources provide incompatible or divergent information.
 
   insufficient_sources:
-    description: Available evidence is not sufficient for verification.
+    description:
+      it: Le evidenze disponibili non sono sufficienti per una verifica affidabile.
+      en: Available evidence is insufficient for reliable verification.
 
   unsourced:
-    description: No reliable source has yet been associated with the information.
+    description:
+      it: Non è ancora associata alcuna fonte affidabile.
+      en: No reliable source has yet been associated.

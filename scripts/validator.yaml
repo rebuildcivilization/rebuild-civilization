@@ -1,0 +1,91 @@
+version: 1
+
+repository:
+  knowledge_root: knowledge
+  sources_root: sources
+
+entities:
+  technologies:
+    type: technology
+    path: knowledge/technologies
+
+  materials:
+    type: material
+    path: knowledge/materials
+
+  processes:
+    type: process
+    path: knowledge/processes
+
+  tools:
+    type: tool
+    path: knowledge/tools
+
+  systems:
+    type: system
+    path: knowledge/systems
+
+schemas:
+  phases: knowledge/schemas/phases.yaml
+  evidence_statuses: knowledge/schemas/evidence-statuses.yaml
+  completeness_statuses: knowledge/schemas/completeness-statuses.yaml
+  categories: knowledge/categories/categories.yaml
+
+validation:
+  id:
+    pattern: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+
+  required_common_fields:
+    - id
+    - type
+    - name
+    - summary
+    - status
+    - phase
+    - categories
+    - sources
+    - metadata
+
+  required_status_fields:
+    - evidence
+    - completeness
+
+  required_phase_fields:
+    - expected
+    - earliest_plausible
+    - latest_plausible
+
+  required_metadata_fields:
+    - created
+    - updated
+
+  multilingual:
+    required_languages:
+      - it
+      - en
+
+  bottlenecks:
+    required_fields:
+      - id
+      - description
+      - impact
+
+    impact_levels:
+      - low
+      - medium
+      - high
+      - critical
+
+  failure_modes:
+    required_fields:
+      - id
+      - description
+      - causes
+      - effects
+      - severity
+
+    severity_levels:
+      - low
+      - medium
+      - high
+      - critical

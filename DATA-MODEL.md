@@ -86,33 +86,33 @@ Required fields defined by a specific entity template must not be silently omitt
 
 ## 4. Canonical identifiers
 
-The id field is the canonical identifier of an entity.
+The `id` field is the canonical identifier of an entity.
 
 Canonical IDs must be:
 
-globally unique;
-stable;
-language-independent;
-written in English;
-lowercase;
-composed only of letters, numbers and hyphens;
-descriptive but not unnecessarily long.
+- globally unique;
+- stable;
+- language-independent;
+- written in English;
+- lowercase;
+- composed only of letters, numbers and hyphens;
+- descriptive but not unnecessarily long.
 
 Examples:
 
-copper-smelting
-copper-ore
-charcoal-production
-water-filtration
-mechanical-lathe
+- `copper-smelting`
+- `copper-ore`
+- `charcoal-production`
+- `water-filtration`
+- `mechanical-lathe`
 
 Do not use:
 
-spaces;
-translated IDs;
-temporary numeric names;
-file paths as IDs;
-language prefixes such as it- or en-.
+- spaces;
+- translated IDs;
+- temporary numeric names;
+- file paths as IDs;
+- language prefixes such as `it-` or `en-`.
 
 Once an ID is referenced by other entities, it should not be changed unless all references are migrated together.
 
@@ -120,41 +120,50 @@ Once an ID is referenced by other entities, it should not be changed unless all 
 
 ## 5. Entity type
 
-The type field identifies the canonical entity type.
+The `type` field identifies the canonical entity type.
 
 Initial allowed values are:
 
-technology
-material
-process
-tool
-system
+- `technology`
+- `material`
+- `process`
+- `tool`
+- `system`
 
 The type must match:
 
-the entity template;
-the directory where the entity is stored;
-the semantic nature of the entity.
+- the entity template;
+- the directory where the entity is stored;
+- the semantic nature of the entity.
 
 Examples:
 
+```yaml
 id: copper-smelting
 type: technology
+
 id: copper-ore
 type: material
-6. Multilingual fields
+```
+
+---
+
+## 6. Multilingual fields
 
 Human-readable structured content may be stored by language.
 
 Initial supported language keys are:
 
-it
-en
+- `it`
+- `en`
 
 Example:
+
+```yaml
 name:
   it: Fusione del rame
   en: Copper smelting
+```
 
 A missing translation may temporarily be represented by an empty value.
 
@@ -170,57 +179,64 @@ Machine-readable keys, IDs, category IDs, phase IDs and dependency IDs must rema
 
 ### 7.1 Evidence status
 
-The status.evidence value must exist in:
+The `status.evidence` value must exist in:
 
-knowledge/schemas/evidence-statuses.yaml
+`knowledge/schemas/evidence-statuses.yaml`
 
 Initial allowed values are:
 
-verified
-partially_verified
-single_source
-conflicting_sources
-insufficient_sources
-unsourced
+- `verified`
+- `partially_verified`
+- `single_source`
+- `conflicting_sources`
+- `insufficient_sources`
+- `unsourced`
 
 The status describes the quality and sufficiency of evidence for the entity as a whole.
 
-If only part of an entity is uncertain, use partially_verified and document the uncertainty in notes or in the related human-readable documentation.
+If only part of an entity is uncertain, use `partially_verified` and document the uncertainty in notes or in the related human-readable documentation.
 
 ### 7.2 Completeness status
 
-Initial allowed values are:
- - draft
- - in_progress
-  - complete
-  - needs_review
-  - deprecated
+The `status.completeness` value must exist in:
 
-If the list becomes more complex, it should be moved to a dedicated schema file. 
+`knowledge/schemas/completeness-statuses.yaml`
+
+Initial allowed values are:
+
+- `draft`
+- `in_progress`
+- `complete`
+- `needs_review`
+- `deprecated`
+
+If the list becomes more complex, it should be moved to a dedicated schema file.
 
 ---
 
 ## 8. Reconstruction phases
 
-The phase object represents the approximate reconstruction period in which an entity is expected to become realistically reproducible.
+The `phase` object represents the approximate reconstruction period in which an entity is expected to become realistically reproducible.
 
 Phase values must reference the canonical definitions in:
 
-knowledge/schemas/phases.yaml
+`knowledge/schemas/phases.yaml`
 
 Example:
 
+```yaml
 phase:
   expected: phase-02
   earliest_plausible: phase-01
   latest_plausible: null
+```
 
 Rules:
 
-expected should normally be present for reconstructible entities;
-earliest_plausible must not be later than expected;
-latest_plausible, when used, must not be earlier than expected;
-phases represent approximate reconstruction scenarios, not guarantees.
+- `expected` should normally be present for reconstructible entities;
+- `earliest_plausible` must not be later than `expected`;
+- `latest_plausible`, when used, must not be earlier than `expected`;
+- phases represent approximate reconstruction scenarios, not guarantees.
 
 Do not use translated documentation directory names as canonical phase identifiers.
 
@@ -228,24 +244,26 @@ Do not use translated documentation directory names as canonical phase identifie
 
 ## 9. Categories
 
-The categories field is a list of canonical category IDs.
+The `categories` field is a list of canonical category IDs.
 
 Example:
 
+```yaml
 categories:
   - metallurgy
   - manufacturing
+```
 
 Every category ID must exist in:
 
-knowledge/categories/categories.yaml
+`knowledge/categories/categories.yaml`
 
 Categories are:
 
-independent from repository location;
-independent from reconstruction phase;
-reusable;
-language-independent.
+- independent from repository location;
+- independent from reconstruction phase;
+- reusable;
+- language-independent.
 
 An entity may belong to multiple categories.
 
@@ -255,15 +273,17 @@ Do not create a new category merely because a concept is located in a different 
 
 ## 10. Source references
 
-The sources field contains references to source IDs stored in:
+The `sources` field contains references to source IDs stored in:
 
-sources/catalog/
+`sources/catalog/`
 
 Example:
 
+```yaml
 sources:
   - source-001
   - source-002
+```
 
 Source records contain bibliographic, access and reliability information.
 
@@ -273,8 +293,8 @@ Every factual entity should normally have at least two independent reliable sour
 
 If only one independent source exists:
 
-use the single_source evidence status;
-document the limitation.
+- use the `single_source` evidence status;
+- document the limitation.
 
 Source independence is defined by the origin of the evidence, not merely by different URLs or publishers.
 
@@ -286,13 +306,14 @@ Dependencies must reference canonical entity IDs.
 
 Do not use:
 
-filenames;
-translated names;
-relative paths;
-duplicated descriptions when a canonical entity ID exists.
+- filenames;
+- translated names;
+- relative paths;
+- duplicated descriptions when a canonical entity ID exists.
 
 Example:
 
+```yaml
 prerequisites:
   technologies:
     - charcoal-production
@@ -301,14 +322,15 @@ prerequisites:
     - charcoal
   tools:
     - furnace
+```
 
 A dependency should be placed in the most appropriate semantic relationship.
 
 For example:
 
-a material required to perform a process belongs in materials;
-a required tool belongs in tools;
-a prerequisite technology belongs in technologies.
+- a material required to perform a process belongs in `materials`;
+- a required tool belongs in `tools`;
+- a prerequisite technology belongs in `technologies`.
 
 Do not use a generic dependency list when a typed relationship is available.
 
@@ -318,14 +340,14 @@ Do not use a generic dependency list when a typed relationship is available.
 
 Relationships may include:
 
-prerequisites;
-inputs;
-outputs;
-related entities;
-substitutes;
-components;
-subsystems;
-alternatives.
+- prerequisites;
+- inputs;
+- outputs;
+- related entities;
+- substitutes;
+- components;
+- subsystems;
+- alternatives.
 
 Relationship fields should contain canonical IDs.
 
@@ -333,15 +355,19 @@ The relationship direction must be clear from the field name.
 
 Examples:
 
+```yaml
 inputs:
   materials:
     - copper-ore
+
 outputs:
   materials:
     - copper
+
 related:
   technologies:
     - bronze-production
+```
 
 ---
 
@@ -349,19 +375,86 @@ related:
 
 Use the following conventions:
 
-[] for a known empty list;
-null for an unknown or intentionally unset scalar value;
-"" for an intentionally empty string field that is retained for structural consistency;
-omit an optional field only when the relevant template explicitly allows omission.
+- `[]` for a known empty list;
+- `null` for an unknown or intentionally unset scalar value;
+- `""` for an intentionally empty string field that is retained for structural consistency;
+- omit an optional field only when the relevant template explicitly allows omission.
 
 Do not use placeholder values such as:
 
-unknown-value
-TBD
-N/A
-???
+- `unknown-value`
+- `TBD`
+- `N/A`
+- `???`
 
 Use notes to explain uncertainty when necessary.
+
+## Bottlenecks
+
+The `bottlenecks` field is a list.
+
+Each bottleneck item must have the following structure:
+
+```yaml
+- id: ""
+  description:
+    it: ""
+    en: ""
+
+  impact:
+    level: ""
+    description:
+      it: ""
+      en: ""
+
+  dependencies: []
+
+  mitigation:
+    strategies: []
+    description:
+      it: ""
+      en: ""
+```
+
+Recommended impact levels are:
+- low
+- medium
+- high
+- critical
+
+## Failure modes
+
+The `failure_modes` field is a list.
+
+Each failure mode must have the following structure:
+
+```yaml
+- id: ""
+  description:
+    it: ""
+    en: ""
+
+  causes: []
+
+  effects: []
+
+  detection:
+    methods: []
+
+  mitigation:
+    preventive: []
+    corrective: []
+
+  severity: ""
+```
+
+Recommended severity levels are:
+- low
+- medium
+- high
+- critical
+
+
 
 ---
 
@@ -369,19 +462,23 @@ Use notes to explain uncertainty when necessary.
 
 Every canonical entity should contain:
 
+```yaml
 metadata:
   created: ""
   updated: ""
+```
 
 Dates use ISO 8601 format:
 
-YYYY-MM-DD
+`YYYY-MM-DD`
 
 Example:
 
+```yaml
 metadata:
   created: "2026-08-24"
   updated: "2026-08-24"
+```
 
 The updated date must change when the entity is materially modified.
 
@@ -395,15 +492,15 @@ A canonical entity should normally have one primary YAML file.
 
 Recommended examples:
 
-knowledge/technologies/copper-smelting.yaml
-knowledge/materials/copper-ore.yaml
-knowledge/processes/charcoal-production.yaml
-knowledge/tools/mechanical-lathe.yaml
-knowledge/systems/electrical-grid.yaml
+- `knowledge/technologies/copper-smelting.yaml`
+- `knowledge/materials/copper-ore.yaml`
+- `knowledge/processes/charcoal-production.yaml`
+- `knowledge/tools/mechanical-lathe.yaml`
+- `knowledge/systems/electrical-grid.yaml`
 
 The filename should normally match the canonical ID:
 
-<id>.yaml
+`<id>.yaml`
 
 ---
 
@@ -411,18 +508,21 @@ The filename should normally match the canonical ID:
 
 Controlled values and reusable definitions are stored in:
 
+```text
 knowledge/schemas/
 ├── phases.yaml
-└── evidence-statuses.yaml
+├── evidence-statuses.yaml
+└── completeness-statuses.yaml
+```
 
 Canonical categories are stored separately:
 
-knowledge/categories/categories.yaml
+`knowledge/categories/categories.yaml`
 
 The distinction is:
 
-schemas/ defines controlled values and reusable reference definitions;
-categories/ defines the taxonomy used to classify knowledge.
+- `schemas/` defines controlled values and reusable reference definitions;
+- `categories/` defines the taxonomy used to classify knowledge.
 
 ---
 
@@ -430,17 +530,17 @@ categories/ defines the taxonomy used to classify knowledge.
 
 Structured data should be validated for:
 
-valid YAML syntax;
-unique canonical IDs;
-valid entity type;
-correct repository location;
-valid phase IDs;
-valid category IDs;
-valid evidence statuses;
-existing source references;
-existing dependency references;
-absence of accidental duplicate entities;
-phase consistency where applicable.
+- valid YAML syntax;
+- unique canonical IDs;
+- valid entity type;
+- correct repository location;
+- valid phase IDs;
+- valid category IDs;
+- valid evidence statuses;
+- existing source references;
+- existing dependency references;
+- absence of accidental duplicate entities;
+- phase consistency where applicable.
 
 Validation should eventually be automated through scripts or CI.
 
@@ -452,12 +552,12 @@ The data model may evolve.
 
 When adding a field:
 
-determine whether it applies to all entity types or only one;
-avoid duplicating the same concept under different names;
-update the relevant template;
-update this document;
-consider migration and backward compatibility;
-update validation rules if applicable.
+- determine whether it applies to all entity types or only one;
+- avoid duplicating the same concept under different names;
+- update the relevant template;
+- update this document;
+- consider migration and backward compatibility;
+- update validation rules if applicable.
 
 Do not change the meaning of an existing field without documenting the migration.
 
@@ -467,13 +567,10 @@ Do not change the meaning of an existing field without documenting the migration
 
 For structured data:
 
-ARCHITECTURE.md defines where data belongs.
-DATA-MODEL.md defines what the data means.
-templates/ defines the canonical starting structure for new entities.
-knowledge/schemas/ defines controlled values and reusable reference definitions.
-knowledge/categories/categories.yaml defines the canonical category vocabulary.
+- `ARCHITECTURE.md` defines where data belongs.
+- `DATA-MODEL.md` defines what the data means.
+- `templates/` defines the canonical starting structure for new entities.
+- `knowledge/schemas/` defines controlled values and reusable reference definitions.
+- `knowledge/categories/categories.yaml` defines the canonical category vocabulary.
 
 If these documents conflict, the conflict must be resolved explicitly before new structured data is created.
-
-
-
