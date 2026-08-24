@@ -1,0 +1,74 @@
+id: ""
+type: material
+
+name:
+  it: ""
+  en: ""
+
+summary:
+  it: ""
+  en: ""
+
+status:
+  evidence: insufficient_sources
+  completeness: draft
+
+phase:
+  expected: null
+  earliest_plausible: null
+  latest_plausible: null
+
+categories: []
+
+classification:
+  kind: ""
+  origin: ""
+
+properties:
+  physical: []
+  chemical: []
+  mechanical: []
+
+availability:
+  natural_occurrence: ""
+  geographic_distribution: ""
+  scarcity: ""
+
+production:
+  extraction_methods: []
+  production_processes: []
+  refining_processes: []
+
+inputs:
+  materials: []
+  technologies: []
+  processes: []
+  tools: []
+  energy: []
+
+uses:
+  technologies: []
+  materials: []
+  processes: []
+  tools: []
+  systems: []
+
+substitutes: []
+
+storage:
+  requirements: []
+  degradation_risks: []
+
+risks:
+  safety: []
+  environmental: []
+
+sources: []
+
+notes:
+  it: ""
+  en: ""
+
+metadata:
+  created: ""
+  updated: ""

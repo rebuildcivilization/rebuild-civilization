@@ -1,0 +1,81 @@
+id: ""
+type: technology
+
+name:
+  it: ""
+  en: ""
+
+summary:
+  it: ""
+  en: ""
+
+status:
+  evidence: insufficient_sources
+  completeness: draft
+
+phase:
+  expected: null
+  earliest_plausible: null
+  latest_plausible: null
+  notes:
+    it: ""
+    en: ""
+
+categories: []
+
+prerequisites:
+  technologies: []
+  materials: []
+  processes: []
+  tools: []
+  systems: []
+  knowledge: []
+  energy: []
+  infrastructure: []
+
+inputs:
+  materials: []
+  energy: []
+  resources: []
+
+outputs:
+  technologies: []
+  materials: []
+  capabilities: []
+
+requirements:
+  skills: []
+  precision: ""
+  scale: []
+
+dependencies:
+  critical: []
+  optional: []
+
+bottlenecks:
+  - id: ""
+    description:
+      it: ""
+      en: ""
+
+risks:
+  safety: []
+  environmental: []
+  societal: []
+
+sources: []
+
+related:
+  technologies: []
+  materials: []
+  processes: []
+  tools: []
+  systems: []
+
+notes:
+  it: ""
+  en: ""
+
+metadata:
+  created: ""
+  updated: ""

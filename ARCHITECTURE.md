@@ -243,7 +243,11 @@ The repository uses the following top-level structure:
 │   ├── processes/
 │   ├── tools/
 │   ├── systems/
-│   └── categories/
+│   ├── categories/
+│   │   └── categories.yaml
+│   └── schemas/
+│       ├── phases.yaml
+│       └── evidence-statuses.yaml
 │
 ├── sources/
 │   └── catalog/
@@ -331,6 +335,31 @@ knowledge/
 ```
 
 The same canonical technology, material, process or system must not be duplicated for each language.
+
+### Schemas and controlled vocabularies
+
+`knowledge/schemas/` contains controlled values and reusable reference
+definitions used by canonical knowledge entities.
+
+Initial schema files include:
+
+- `phases.yaml`
+- `evidence-statuses.yaml`
+
+The directory does not contain knowledge entities.
+
+It defines values and structures referenced by those entities.
+
+### Categories
+
+`knowledge/categories/` contains the canonical project taxonomy.
+
+Initial category definitions are stored in:
+
+`knowledge/categories/categories.yaml`
+
+Categories classify knowledge independently from reconstruction phases
+and repository location.
 
 ---
 

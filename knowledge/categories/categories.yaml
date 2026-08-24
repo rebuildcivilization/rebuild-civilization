@@ -1,0 +1,237 @@
+version: 1
+
+categories:
+  - id: agriculture
+    parent: null
+    name:
+      it: Agricoltura
+      en: Agriculture
+    description:
+      it: Produzione di cibo e gestione delle coltivazioni.
+      en: Food production and crop management.
+
+  - id: animal-husbandry
+    parent: agriculture
+    name:
+      it: Allevamento
+      en: Animal husbandry
+    description:
+      it: Gestione e utilizzo di animali domestici.
+      en: Management and use of domesticated animals.
+
+  - id: biology
+    parent: null
+    name:
+      it: Biologia
+      en: Biology
+    description:
+      it: Conoscenze e tecnologie relative agli organismi viventi.
+      en: Knowledge and technologies related to living organisms.
+
+  - id: biotechnology
+    parent: biology
+    name:
+      it: Biotecnologie
+      en: Biotechnology
+    description:
+      it: Utilizzo di sistemi biologici per produrre materiali, processi o tecnologie.
+      en: Use of biological systems to produce materials, processes or technologies.
+
+  - id: chemistry
+    parent: null
+    name:
+      it: Chimica
+      en: Chemistry
+    description:
+      it: Sostanze, reazioni e processi chimici.
+      en: Substances, reactions and chemical processes.
+
+  - id: communication
+    parent: null
+    name:
+      it: Comunicazione
+      en: Communication
+    description:
+      it: Tecnologie e sistemi per la trasmissione di informazioni.
+      en: Technologies and systems for transmitting information.
+
+  - id: computing
+    parent: null
+    name:
+      it: Informatica
+      en: Computing
+    description:
+      it: Elaborazione, memorizzazione e gestione delle informazioni.
+      en: Processing, storage and management of information.
+
+  - id: construction
+    parent: null
+    name:
+      it: Costruzione
+      en: Construction
+    description:
+      it: Edifici, strutture e tecniche costruttive.
+      en: Buildings, structures and construction techniques.
+
+  - id: energy
+    parent: null
+    name:
+      it: Energia
+      en: Energy
+    description:
+      it: Produzione, conversione, distribuzione e utilizzo dell'energia.
+      en: Production, conversion, distribution and use of energy.
+
+  - id: electronics
+    parent: null
+    name:
+      it: Elettronica
+      en: Electronics
+    description:
+      it: Dispositivi e sistemi basati sul controllo del flusso di elettroni o altri portatori di carica.
+      en: Devices and systems based on controlling the flow of electrons or other charge carriers.
+
+  - id: engineering
+    parent: null
+    name:
+      it: Ingegneria
+      en: Engineering
+    description:
+      it: Progettazione e realizzazione di soluzioni tecniche.
+      en: Design and implementation of technical solutions.
+
+  - id: environment
+    parent: null
+    name:
+      it: Ambiente
+      en: Environment
+    description:
+      it: Interazione tra attività umane, risorse naturali ed ecosistemi.
+      en: Interaction between human activities, natural resources and ecosystems.
+
+  - id: food
+    parent: null
+    name:
+      it: Alimentazione
+      en: Food
+    description:
+      it: Produzione, conservazione, trasformazione e distribuzione degli alimenti.
+      en: Production, preservation, processing and distribution of food.
+
+  - id: health
+    parent: null
+    name:
+      it: Salute
+      en: Health
+    description:
+      it: Prevenzione, diagnosi, cura e organizzazione dei servizi sanitari.
+      en: Prevention, diagnosis, treatment and organization of health services.
+
+  - id: infrastructure
+    parent: null
+    name:
+      it: Infrastrutture
+      en: Infrastructure
+    description:
+      it: Strutture e reti che supportano attività e servizi.
+      en: Structures and networks supporting activities and services.
+
+  - id: manufacturing
+    parent: null
+    name:
+      it: Produzione
+      en: Manufacturing
+    description:
+      it: Produzione e trasformazione organizzata di beni e componenti.
+      en: Organized production and transformation of goods and components.
+
+  - id: materials
+    parent: null
+    name:
+      it: Materiali
+      en: Materials
+    description:
+      it: Materie prime, sostanze e materiali utilizzati per costruire o produrre.
+      en: Raw resources, substances and materials used to build or manufacture.
+
+  - id: measurement
+    parent: null
+    name:
+      it: Misurazione
+      en: Measurement
+    description:
+      it: Misurazione, standardizzazione e strumenti di precisione.
+      en: Measurement, standardization and precision instruments.
+
+  - id: mechanical
+    parent: engineering
+    name:
+      it: Meccanica
+      en: Mechanical engineering
+    description:
+      it: Macchine, movimento, trasmissione di forza e sistemi meccanici.
+      en: Machines, motion, force transmission and mechanical systems.
+
+  - id: metallurgy
+    parent: materials
+    name:
+      it: Metallurgia
+      en: Metallurgy
+    description:
+      it: Estrazione, produzione, trasformazione e utilizzo dei metalli.
+      en: Extraction, production, processing and use of metals.
+
+  - id: mining
+    parent: materials
+    name:
+      it: Estrazione mineraria
+      en: Mining
+    description:
+      it: Individuazione ed estrazione di risorse minerarie.
+      en: Identification and extraction of mineral resources.
+
+  - id: sanitation
+    parent: health
+    name:
+      it: Igiene e servizi sanitari
+      en: Sanitation
+    description:
+      it: Gestione igienica dell'acqua, dei rifiuti e delle condizioni ambientali.
+      en: Hygienic management of water, waste and environmental conditions.
+
+  - id: science
+    parent: null
+    name:
+      it: Scienza
+      en: Science
+    description:
+      it: Metodi e conoscenze scientifiche utilizzati per comprendere e riprodurre fenomeni.
+      en: Scientific methods and knowledge used to understand and reproduce phenomena.
+
+  - id: shelter
+    parent: construction
+    name:
+      it: Riparo
+      en: Shelter
+    description:
+      it: Soluzioni per protezione e abitazione di persone e comunità.
+      en: Solutions for protecting and housing people and communities.
+
+  - id: transportation
+    parent: null
+    name:
+      it: Trasporti
+      en: Transportation
+    description:
+      it: Movimento di persone, materiali e merci.
+      en: Movement of people, materials and goods.
+
+  - id: water
+    parent: infrastructure
+    name:
+      it: Acqua
+      en: Water
+    description:
+      it: Raccolta, trattamento, distribuzione e gestione dell'acqua.
+      en: Collection, treatment, distribution and management of water
+  

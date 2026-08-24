@@ -1,0 +1,70 @@
+id: ""
+type: tool
+
+name:
+  it: ""
+  en: ""
+
+summary:
+  it: ""
+  en: ""
+
+status:
+  evidence: insufficient_sources
+  completeness: draft
+
+phase:
+  expected: null
+  earliest_plausible: null
+  latest_plausible: null
+
+categories: []
+
+classification:
+  kind: ""
+
+purpose:
+  capabilities: []
+
+construction:
+  materials: []
+  required_tools: []
+  required_processes: []
+  required_technologies: []
+  overview:
+    it: ""
+    en: ""
+
+operation:
+  principle:
+    it: ""
+    en: ""
+  energy: []
+
+requirements:
+  precision: ""
+  skills: []
+  scale: []
+
+maintenance:
+  wear_points: []
+  replacement_parts: []
+  lubrication: []
+  calibration: []
+
+alternatives:
+  simpler: []
+  advanced: []
+
+risks:
+  safety: []
+
+sources: []
+
+notes:
+  it: ""
+  en: ""
+
+metadata:
+  created: ""
+  updated: ""

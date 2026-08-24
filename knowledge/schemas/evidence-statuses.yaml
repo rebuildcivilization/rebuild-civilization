@@ -1,0 +1,18 @@
+statuses:
+  verified:
+    description: Supported by at least two independent reliable sources.
+
+  partially_verified:
+    description: Some claims are verified, while others require additional evidence.
+
+  single_source:
+    description: Currently supported by only one independent reliable source.
+
+  conflicting_sources:
+    description: Reliable sources disagree on relevant information.
+
+  insufficient_sources:
+    description: Available evidence is not sufficient for verification.
+
+  unsourced:
+    description: No reliable source has yet been associated with the information.

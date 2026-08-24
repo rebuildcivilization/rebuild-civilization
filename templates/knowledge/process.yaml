@@ -1,0 +1,78 @@
+id: ""
+type: process
+
+name:
+  it: ""
+  en: ""
+
+summary:
+  it: ""
+  en: ""
+
+status:
+  evidence: insufficient_sources
+  completeness: draft
+
+phase:
+  expected: null
+  earliest_plausible: null
+  latest_plausible: null
+
+categories: []
+
+prerequisites:
+  technologies: []
+  materials: []
+  processes: []
+  tools: []
+  knowledge: []
+  energy: []
+  infrastructure: []
+
+inputs:
+  materials: []
+  energy: []
+  resources: []
+
+outputs:
+  materials: []
+  products: []
+  byproducts: []
+  waste: []
+
+stages:
+  - id: ""
+    name:
+      it: ""
+      en: ""
+    description:
+      it: ""
+      en: ""
+
+critical_parameters:
+  temperature: ""
+  pressure: ""
+  time: ""
+  purity: ""
+  precision: ""
+
+quality_control: []
+
+failure_modes:
+  - issue: ""
+    causes: []
+    mitigation: []
+
+risks:
+  safety: []
+  environmental: []
+
+sources: []
+
+notes:
+  it: ""
+  en: ""
+
+metadata:
+  created: ""
+  updated: ""

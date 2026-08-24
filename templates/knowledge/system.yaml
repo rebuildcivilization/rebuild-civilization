@@ -1,0 +1,76 @@
+id: ""
+type: system
+
+name:
+  it: ""
+  en: ""
+
+summary:
+  it: ""
+  en: ""
+
+status:
+  evidence: insufficient_sources
+  completeness: draft
+
+phase:
+  expected: null
+  earliest_plausible: null
+  latest_plausible: null
+
+categories: []
+
+purpose:
+  capabilities: []
+
+components:
+  technologies: []
+  materials: []
+  processes: []
+  tools: []
+  subsystems: []
+
+inputs:
+  energy: []
+  materials: []
+  labor: []
+  information: []
+
+outputs:
+  capabilities: []
+  products: []
+
+infrastructure:
+  required: []
+
+scale:
+  supported:
+    - household
+    - community
+    - regional
+    - industrial
+
+dependencies:
+  critical: []
+  optional: []
+
+resilience:
+  single_points_of_failure: []
+  redundancy: []
+  maintenance_requirements: []
+  recovery_requirements: []
+
+risks:
+  safety: []
+  environmental: []
+  societal: []
+
+sources: []
+
+notes:
+  it: ""
+  en: ""
+
+metadata:
+  created: ""
+  updated: ""
