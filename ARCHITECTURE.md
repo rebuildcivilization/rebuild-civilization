@@ -56,36 +56,39 @@ The primary organization of `docs/` is chronological.
 
 The phases represent approximate reconstruction periods, not guaranteed deadlines.
 
-### Phase 0 — Orientation
+### Phase 0 — Survival
+
+**Primary objective: survival and manage first emergencies.**
 
 This phase defines the project before reconstruction activities begin.
-
-It includes:
-
-- Assumptions
-- Methodology
-- Scenarios
-- Limitations
-- Project principles
-- How to use the project
-
-Italian directory: `docs/it/00-orientamento/`
-
-English directory: `docs/en/00-orientation/`
-
-### Phase 1 — 0–2 years
-
-**Primary objective: survival, stabilization and preservation of knowledge.**
+IS split on two level:
+ - 0A — Immediate Survival
+ - 0B — Stabilization
 
 Typical subjects include:
 
 - Water
 - Food
+- Health
+- Basic tools
+- Fire
+- Food preservation
+
+Italian directory: `docs/it/00-soprevvivenza/`
+
+English directory: `docs/en/00-survival/`
+
+### Phase 1 — 0–2 years
+
+**Primary objective: stabilization and preservation of knowledge.**
+
+Typical subjects include:s
+
+- Food
 - Shelter
 - Health
 - Sanitation
 - Basic tools
-- Fire
 - Food preservation
 - Initial organization
 - Protection of surviving knowledge and equipment
@@ -283,7 +286,9 @@ The Italian documentation structure is:
 ```text
 docs/
 └── it/
-    ├── 00-orientamento/
+    ├── 00-sopravvivenza/
+    |   ├── 0A — Sopravvivenza immediata 
+    |   └── 0B — Stabilizzazione         
     ├── 01-0-2-anni/
     ├── 02-2-5-anni/
     ├── 03-5-15-anni/
@@ -297,7 +302,9 @@ The English documentation structure is:
 ```text
 docs/
 └── en/
-    ├── 00-orientation/
+    ├── 00-survival/
+    |   ├── 0A — Immediate Survival 
+    |   └── 0B — Stabilization         
     ├── 01-0-2-years/
     ├── 02-2-5-years/
     ├── 03-5-15-years/

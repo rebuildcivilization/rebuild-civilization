@@ -4,7 +4,7 @@ Human-readable documentation is organized first by language and then by reconstr
 
 ## Italian
 
-- [`00-orientamento`](it/00-orientamento/README.md)
+- [`00-sopravvivenza`](it/00-sopravvivenza/README.md)
 - [`01-0-2-anni`](it/01-0-2-anni/README.md)
 - [`02-2-5-anni`](it/02-2-5-anni/README.md)
 - [`03-5-15-anni`](it/03-5-15-anni/README.md)
@@ -14,7 +14,7 @@ Human-readable documentation is organized first by language and then by reconstr
 
 ## English
 
-- [`00-orientation`](en/00-orientation/README.md)
+- [`00-survival`](en/00-survival/README.md)
 - [`01-0-2-years`](en/01-0-2-years/README.md)
 - [`02-2-5-years`](en/02-2-5-years/README.md)
 - [`03-5-15-years`](en/03-5-15-years/README.md)

@@ -12,8 +12,8 @@ society.
 
 The project is organized into approximate reconstruction phases:
 
-- 0 — Orientation
-- 0–2 years — Survival and stabilization
+- 0 — Survival and emergency
+- 0–2 years — Stabilization
 - 2–5 years — Self-sufficiency and basic production
 - 5–15 years — Initial industrialization
 - 15–30 years — Advanced industrial infrastructure

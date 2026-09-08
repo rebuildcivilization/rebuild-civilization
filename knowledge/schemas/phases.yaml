@@ -1,17 +1,26 @@
 version: 1
 
 phases:
-  - id: phase-00
+  - id: phase-0A
     order: 0
     time_range:
       min_years: null
       max_years: 0
     name:
-      it: Orientamento
-      en: Orientation
+      it: Sopravvivenza Immediata
+      en: Immediate Survival
+
+  - id: phase-0B
+    order: 1
+    time_range:
+      min_years: null
+      max_years: 0
+    name:
+      it: Emergenza
+      en: Emergency
 
   - id: phase-01
-    order: 1
+    order: 2
     time_range:
       min_years: 0
       max_years: 2
@@ -20,7 +29,7 @@ phases:
       en: 0-2 years
 
   - id: phase-02
-    order: 2
+    order: 3
     time_range:
       min_years: 2
       max_years: 5
@@ -29,7 +38,7 @@ phases:
       en: 2-5 years
 
   - id: phase-03
-    order: 3
+    order: 4
     time_range:
       min_years: 5
       max_years: 15
@@ -38,7 +47,7 @@ phases:
       en: 5-15 years
 
   - id: phase-04
-    order: 4
+    order: 5
     time_range:
       min_years: 15
       max_years: 30
@@ -47,7 +56,7 @@ phases:
       en: 15-30 years
 
   - id: phase-05
-    order: 5
+    order: 6
     time_range:
       min_years: 30
       max_years: 50
@@ -56,7 +65,7 @@ phases:
       en: 30-50 years
 
   - id: phase-06
-    order: 6
+    order: 7
     time_range:
       min_years: 50
       max_years: null
