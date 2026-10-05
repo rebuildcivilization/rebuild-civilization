@@ -1,1 +1,8 @@
 PyYAML>=6.0
+beautifulsoup4 
+markdownify
+jsonschema
+requests
+pydantic
+openai
+html_to_markdown

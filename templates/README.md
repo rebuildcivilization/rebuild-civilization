@@ -17,12 +17,30 @@ templates/
 ├── sources/
 │   └── source.yaml
 └── docs/
-    ├── technology.md
-    ├── material.md
-    ├── process.md
-    ├── tool.md
-    └── system.md
+    └── material.md
 ```
+
+The canonical documentation pattern is one Markdown file per analyzed item, stored inside the destination phase folder.
+
+Example:
+
+```text
+docs/
+├── it/
+│   ├── 02-2-5-anni/
+│   │   ├── charcoal-production.md
+│   │   └── kiln-construction.md
+│   └── 03-5-15-anni/
+│       └── simple-copper-smelting.md
+└── en/
+    ├── 02-2-5-years/
+    │   ├── charcoal-production.md
+    │   └── kiln-construction.md
+    └── 03-5-15-years/
+        └── simple-copper-smelting.md
+```
+
+Each file must contain the sections required for the analysis: Material, System, Technology, Tools, Process, and the explicit objective of what is to be achieved.
 
 ## Authority
 

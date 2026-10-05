@@ -1,66 +1,86 @@
-# {{material_name}}
+# {{document_name}}
 
-## Summary
+> One Markdown file per analyzed item. Place the file in the destination phase folder, using the specific file name of the item under analysis.
 
-Briefly describe the material and its importance.
+## Objective
 
-## Type
+Describe what is being analyzed and what result is expected.
 
-- Natural resource / raw material / processed material
-- Category: `{{category}}`
+Example:
+- What capability or artifact is being reconstructed?
+- What must be obtained in this phase?
+- What problem does it solve?
 
-## Reconstruction phase
+State clearly what the final goal is.
 
+Example:
+- obtain a reliable material;
+- build a working system;
+- produce a reproducible technology;
+- operate a process at usable scale.
+
+## Dependencies and prerequisites
+
+List the prerequisites that must be satisfied before the item can be realistically reproduced.
+
+## Material
+
+### Objective
+Describe the material or resource needed to obtain or reproduce the item.
+
+### Details
+- Type: `{{material_type}}`
+- Required quantity / quality: `{{quantity}}`
+- Available sources: `{{sources}}`
+- Substitutes: `{{substitutes}}`
+- Key constraints: `{{constraints}}`
+
+## System
+
+### Objective
+Describe the broader system in which the item is used or produced.
+
+### Details
+- System purpose: `{{system_purpose}}`
+- Main components: `{{components}}`
+- Dependencies: `{{dependencies}}`
+- Operating scale: `{{scale}}`
+
+## Technology
+
+### Objective
+Explain the technology involved and what it enables.
+
+### Details
+- Core technology: `{{technology_name}}`
+- Why it matters: `{{importance}}`
 - Expected phase: `{{phase}}`
 - Earliest plausible phase: `{{earliest_phase}}`
+- Main limitations: `{{limitations}}`
 
-## Availability
+## Tools
 
-Describe:
+### Objective
+List the tools, equipment or machines required for production, use or repair.
 
-- natural occurrence;
-- geographic distribution;
-- scarcity;
-- possible substitutes.
+### Details
+- Essential tools: `{{tools}}`
+- Specialized equipment: `{{specialized_equipment}}`
+- Required precision / tolerances: `{{precision}}`
+- Maintenance needs: `{{maintenance}}`
 
-## Properties
+## Process
 
-Describe the properties relevant to reconstruction.
+### Objective
+Describe the production or operation process and what outcome it produces.
 
-## Production or extraction
-
-Describe how the material can be:
-
-- found;
-- extracted;
-- produced;
-- refined.
-
-## Required inputs
-
-List:
-
-- raw materials;
-- tools;
-- energy;
-- processes.
-
-## Uses
-
-Describe what technologies or processes require this material.
-
-## Limitations
-
-Describe:
-
-- impurities;
-- degradation;
-- storage requirements;
-- supply constraints.
-
-## Safety
-
-Describe relevant hazards.
+### Details
+- Process name: `{{process_name}}`
+- Inputs: `{{inputs}}`
+- Stages: `{{stages}}`
+- Outputs: `{{outputs}}`
+- Quality checks: `{{quality_checks}}`
+- Safety requirements: `{{safety}}`
 
 ## Verification status
 
