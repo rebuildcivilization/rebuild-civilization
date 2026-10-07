@@ -3,6 +3,10 @@
 
 Define the essential action for manage the first emergency, about first week/month.
 
+## hazards
+- [nuclear-fallout](hazards/nuclear-fallout.md)
+- [chemical-contamination](hazards/chemical-contamination.md)
+- [biological-contamination](hazards/biological-contamination.md)
 
 ## orientation
 
@@ -43,6 +47,7 @@ Define the essential action for manage the first emergency, about first week/mon
 - [terrain-reading](orientation/terrain-reading.md)
 - [triangulation](orientation/triangulation.md)
 - [weather-adaptations](orientation/weather-adaptations.md)
+- [water-crossings](orientation/water-crossings.md)
 - [weather-forecasting](orientation/weather-forecasting.md)
 - [wind-direction-reading](orientation/wind-direction-reading.md)
 - [wind-patterns](orientation/wind-patterns.md)
@@ -61,3 +66,10 @@ Define the essential action for manage the first emergency, about first week/mon
 - [priority-salvage-list](salvage/priority-salvage-list.md)
 - [seed-and-food-salvage](salvage/seed-and-food-salvage.md)
 - [tool-identification-repair](salvage/tool-identification-repair.md)
+
+## signaling
+
+- [signal-mirror](signaling/signal-mirror.md)
+- [ground-to-air-signals](signaling/ground-to-air-signals.md)
+- [signal-fires](signaling/signal-fires.md)
+- [improvised-signaling](signaling/improvised-signaling.md)

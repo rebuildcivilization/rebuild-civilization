@@ -2,6 +2,12 @@
 
 Define the essential action for survival, about first 72 hours.
 
+## enviroment
+
+- [cold-weather-survival](enviroment/cold-weather-survival.md)
+- [desert-survival](enviroment/desert-survival.md)
+- [tropical-survival](enviroment/tropical-survival.md)
+- [sea-survival](enviroment/sea-survival.md)
 
 ## fire
 
@@ -9,6 +15,7 @@ Define the essential action for survival, about first 72 hours.
 - [charcoal-basics](fire/charcoal-basics.md)
 - [fire-making](fire/fire-making.md)
 - [fire-management](fire/fire-management.md)
+- [fire_in_rain] (fire/fire_in_rain.md)
 - [friction-fire](fire/friction-fire.md)
 - [hand-drill](fire/hand-drill.md)
 - [heat-reflection](fire/heat-reflection.md)
@@ -40,6 +47,7 @@ Define the essential action for survival, about first 72 hours.
 - [medical-emergencies](first-aid/medical-emergencies.md)
 - [medicinal-plants](first-aid/medicinal-plants.md)
 - [one-handed-tie](first-aid/one-handed-tie.md)
+- [personal-hygiene] (first-aid/personal-hygiene.md)
 - [recovery-position](first-aid/recovery-position.md)
 - [rigid-splints](first-aid/rigid-splints.md)
 - [shock-treatment](first-aid/shock-treatment.md)
@@ -49,6 +57,7 @@ Define the essential action for survival, about first 72 hours.
 - [suture-technique](first-aid/suture-technique.md)
 - [tourniquet-use](first-aid/tourniquet-use.md)
 - [traction-splint](first-aid/traction-splint.md)
+- [venomous-bites-and-stings](first-aid/venomous-bites-and-stings.md)
 - [wound-closure](first-aid/wound-closure.md)
 - [wound-management](first-aid/wound-management.md)
 - [wound-packing](first-aid/wound-packing.md)
