@@ -20,17 +20,22 @@ To navigate without technology.
 
 ## System
 Navigation relies on cross-referencing multiple methods. The core principle is to cross-reference at least two methods before committing to a direction.
+Exploration should be recorded as a sequence of direction and distance measurements rather than relying only on memory.
 
 ## Technology
 - None explicitly identified in the source text.
 
 ## Tools
-- Shadow stick
+- Shadow stick/Pencil
 - Rocks/markers
 - Needle/steel object
 - Leaf/bark
 - Still water container
 - Watch
+- notebook
+- bandana/visible flag
+- compass
+
 
 ## Process
 ### Method 1: The Shadow Stick (Daytime)
@@ -80,6 +85,17 @@ Navigation relies on cross-referencing multiple methods. The core principle is t
 - Break branches at head height, bending them to point in the direction of travel.
 - Scratch arrows into tree bark or dirt at eye level.
 
+### Method 8: Progressive bearing and distance recording
+- From the field, take an azimuth towards a recognisable landmark.
+- Record the azimuth and distance.
+- Make your way to the landmark.
+- Leave a visible marker.
+- Repeat the process towards the next landmark.
+- Make a note of each segment.
+- Reconstruct the sequence on the map.
+- Use the sequence to find your way back to the starting point.
+
+
 ## Notes
 - **Shadow Stick Accuracy:** The longer the wait between marks, the more accurate the line. 15 minutes yields a rough heading; an hour yields a solid one.
 - **Polaris Misconception:** Polaris is not the brightest star; Sirius, Vega, and Jupiter are brighter. Confirmation should use the Big Dipper’s pointer stars.
@@ -88,6 +104,8 @@ Navigation relies on cross-referencing multiple methods. The core principle is t
 - **Hemisphere Awareness:** The Sun and shadow methods reverse between Northern and Southern hemispheres, requiring awareness of the current location.
 - **Magnetization Maintenance:** The magnetization of the needle lasts a few hours to a few days; re-stroke the needle daily.
 - **Core Rule:** Always cross-reference methods; use at least two before committing to a direction.
+- When navigating without a reliable compass reference, verify a direction using multiple independent methods rather than trusting one observation.
+
 
 ## Quick Reference Card
 | Method | Works When | Accuracy | Hemisphere |

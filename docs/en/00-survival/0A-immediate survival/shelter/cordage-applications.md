@@ -2,6 +2,7 @@
 
 ## Objective
 Part of Knots and Cordage: Knowing how to make rope and tie knots is only valuable if you know what to build with them. This guide covers the practical, life-sustaining applications of cordage — from trapping food and hauling water to building tools and securing shelter. These are the projects that turn raw rope into survival.
+To treat cordage as a multifunctional survival resource rather than only as shelter material.
 
 ## Dependencies and prerequisites
 Cordage is limited in a post-collapse world, necessitating a priority focus on production. Tools must be tested for safety before use to prevent injury.
@@ -132,3 +133,4 @@ A hafted tool with a loose head is more dangerous than no tool at all. Test ever
 *   The travois capacity is defined as 50-100 kg.
 *   For the taut-line hitch, the mechanical advantage is stated as 3:1.
 *   The priority list dictates that shelter is the highest immediate priority.
+*   Carry cordage because replacing it from natural materials requires significant time, energy and skill.

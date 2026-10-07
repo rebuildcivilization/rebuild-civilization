@@ -2,6 +2,7 @@
 
 ## Objective
 Rope is one of the oldest human technologies and one of the most critical. Knowing how to make cordage from plants and tie knots that hold under load is a foundation skill that unlocks almost everything else in survival.
+To treat cordage as a multifunctional survival resource rather than only as shelter material.
 
 ## Dependencies and prerequisites
 ### For Cordage

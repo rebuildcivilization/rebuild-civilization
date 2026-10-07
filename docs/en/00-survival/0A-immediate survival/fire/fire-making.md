@@ -130,26 +130,4 @@ Fire requires the simultaneous presence of three elements, known as the Fire Tri
 *   **Tinder Blow:** Blow gently and steadily from 15-20 cm away to prevent blowing the ember out of the tinder.
 *   **Wind Management:** Use rocks, logs, or the body as a windbreak to prevent wind from dissipating heat or scattering sparks.
 *   **Wood Selection:** Spindle and fireboard should be similar softwoods for friction fire to work best.
-
-## Technology
-*   Friction Fire (Bow Drill/Hand Drill)
-*   Spark Fire (Flint & Steel)
-*   Lens Fire (Magnifying Glass)
-
-## Tools
-*   Spindle (Dry, straight stick)
-*   Fireboard (Flat board)
-*   Bow (Curved stick)
-*   Bearing Block/Handhold (Rock, knot, or shell)
-*   Flint/Stone
-*   Carbon Steel Striker
-*   Lens (Convex)
-
-## Process
-*   **Fuel Progression:** Tinder → Kindling → Fuel Wood.
-*   **Fire Lay Structures:** Teepee/Cone, Log Cabin, Long Fire, Star Fire.
-
-# Notes
-*   Fire is the single most transformative technology, unlocking water purification, food preservation, pottery, charcoal production, and metalworking.
 *   Practice is essential: Practice often and never take fire for granted.
-*   The bow drill is the most practical friction method because the bow multiplies effort.

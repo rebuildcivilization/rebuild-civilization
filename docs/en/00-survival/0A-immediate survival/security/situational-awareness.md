@@ -72,6 +72,16 @@ Strategies to prevent degradation of awareness:
 4.  **Assess Threat Level:** Determine the required level using the Cooper Color Code System (Yellow to Orange to Red).
 5.  **Manage Fatigue:** Rotate duties and use multipliers to sustain awareness, scheduling deliberate rest.
 
+**Pre-departure / pre-movement check**
+- Determine expected duration.
+- Estimate food and water requirements.
+- Check clothing against climate.
+- Check medical supplies.
+- Check terrain-specific equipment.
+- Identify alternative routes.
+- Define regrouping points.
+- Establish what to do if weather, terrain or transport conditions change.
+
 ## Notes
 
 *   The human eye has a narrow cone of sharp focus (roughly 3 degrees).

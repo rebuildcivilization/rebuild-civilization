@@ -56,12 +56,17 @@ Any waterproof or water-resistant flat sheet works. Examples include purpose-mad
 | C-Fly | High | High | Medium-High | Medium | 10-15 min |
 | Cornet | High | Very High | High | Very Low | 10-15 min |
 
+The configuration should be chosen taking into account wind, rain, temperature and ventilation.
+The orientation of the shelter in relation to the wind is part of the design, not a detail to be considered afterwards.
+
 ### Tips for All Configurations
 *   **Tension is everything:** A taut tarp sheds water. A saggy tarp pools water, flaps in wind, and eventually tears or collapses. Re-tension after rain.
 *   **Drip lines:** If water runs down the ridgeline, tie a short piece of string to the ridgeline where it enters the tarp to direct water.
 *   **Gutter channels:** In heavy rain, dig a shallow trench (5-8 cm / 2-3 inches deep) around the uphill side of the shelter to divert runoff.
 *   **Site Selection:** A good site with a mediocre pitch beats a perfect pitch on a bad site. Avoid valley bottoms (cold air pools), hilltops (wind exposure), and areas beneath dead branches.
 *   **Double Tarp Advantage:** Use one tarp as a ground sheet and one as a roof to prevent moisture wicking from below and extend insulation life.
+*   **Floor:** A tarp without a floor can facilitate drainage and reduce condensation build-up. A waterproof floor causes problems with condensation and water build-up.
+
 
 ## Technology
 
@@ -79,8 +84,9 @@ Any waterproof or water-resistant flat sheet works. Examples include purpose-mad
 4.  **Tensioning:** Ensure all lines and fabric are taut to maximize water shedding.
 5.  **Post-Pitch Adjustment:** Re-tension the tarp after rain.
 
-Notes
+## Notes
 - The core philosophy centers on adaptability using minimal materials.
 - The Lean-To configuration is explicitly noted to pair best with a fire and fire wall setup for reflected warmth.
 - Synthetic tarps melt and drip burning plastic; natural-fiber tarps ignite. Sparks from popping wood can reach a 150 cm (5 feet) spark zone when burning softwood like pine or spruce.
 - The primary takeaway is that site selection often outweighs the perfection of the pitch.
+- Check the natural drainage of the ground before building the shelter.

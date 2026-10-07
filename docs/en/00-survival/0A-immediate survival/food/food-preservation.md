@@ -51,6 +51,11 @@ Food preservation works by attacking what causes spoilage — bacteria, enzymes,
 * Adding a roof of logs covered with earth (at least 30 cm / 12 inches of soil for insulation).
 * Ensuring ventilation via two pipes or channels (one low for cold air in, one high for warm air out).
 
+Preservation must begin immediately after catching or harvesting.
+The amount of food available must be proportionate to the time needed to consume it.
+Any parts not consumed immediately must be preserved in a more stable form: by drying, smoking, salting or another appropriate method.
+
+
 ## Technology
 **Preservation Techniques:
 * Sun Drying
@@ -74,6 +79,12 @@ Food preservation works by attacking what causes spoilage — bacteria, enzymes,
 * Fire source (for smoking or rendering fat)
 
 ## Process
+Set aside the portion intended for immediate consumption straight away.
+Cool and protect the portion to be stored.
+Dry or preserve the surplus as soon as possible.
+Use the offal where appropriate.
+Protect the food from animals, insects and contamination.
+
 **Method 1: Sun Drying (Jerky and Dried Fruit)**
 1. Cut meat into thin strips (no thicker than 5 mm), cutting with the grain for jerky, against the grain for brittle jerky. Remove all visible fat.
 2. Build a drying rack from green wood (two Y-shaped uprights with crossbars), elevating it at least 60 cm (2 feet) off the ground.

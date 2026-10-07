@@ -69,7 +69,6 @@ Define the essential action for manage the first emergency, about first week/mon
 
 ## signaling
 
-- [signal-mirror](signaling/signal-mirror.md)
 - [ground-to-air-signals](signaling/ground-to-air-signals.md)
 - [signal-fires](signaling/signal-fires.md)
-- [improvised-signaling](signaling/improvised-signaling.md)
+- [signal-mirror](signaling/signal-mirror.md)

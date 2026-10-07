@@ -6,6 +6,7 @@ Define the essential action for survival, about first 72 hours.
 
 - [cold-weather-survival](enviroment/cold-weather-survival.md)
 - [desert-survival](enviroment/desert-survival.md)
+- [tree-resources](enviroment/tree-resources.md)
 - [tropical-survival](enviroment/tropical-survival.md)
 - [sea-survival](enviroment/sea-survival.md)
 
@@ -90,6 +91,7 @@ Define the essential action for survival, about first 72 hours.
 - [catch-processing](food/catch-processing.md)
 - [chamber-design](food/chamber-design.md)
 - [clarity-assessment](food/clarity-assessment.md)
+- [camp-cooking](food/camp-cooking.md)
 - [cold-smoking](food/cold-smoking.md)
 - [cold-storage](food/cold-storage.md)
 - [confit-method](food/confit-method.md)
@@ -192,6 +194,7 @@ Define the essential action for survival, about first 72 hours.
 
 ## security
 
+- [cutting-tools](cutting-tools.md)
 - [escape-routes](security/escape-routes.md)
 - [situational-awareness](security/situational-awareness.md)
 - [thermal-management](security/thermal-management.md)

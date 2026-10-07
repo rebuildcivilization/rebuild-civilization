@@ -24,13 +24,17 @@ Signal fires require:
 ## System
 
 A signal fire must be optimized for visibility rather than warmth or cooking.
+- Day: smoke has greater value.
+- Night: flame/light has greater value.
 
-The fire should be:
+Signal location should be selected according to the expected search direction and terrain visibility. The fire should be:
 
 * Large enough to be visible.
 * Controlled.
 * Located in an open area.
 * Supplied with sufficient fuel.
+
+Signals from shipwrecks, glass, chrome parts, lights, smoke and coloured objects can be combined.
 
 ### Smoke
 
@@ -72,4 +76,4 @@ A prepared signal site can be maintained so that a smoke-producing material can 
 * Signal fires should never be allowed to become uncontrolled wildfires.
 * Wind direction determines whether smoke will be visible from the expected search direction.
 * The FM lists smoke and illumination signals among survival equipment.
-* A signal fire is complementary to mirrors, whistles, and ground-to-air signals rather than a replacement for them.
+* A signal fire is complementary to mirrors, whistles, and ground-to-air signals rather than a replacement for them. Signaling should be redundant: use fire/smoke together with reflective, audible or ground-based signals whenever possible.

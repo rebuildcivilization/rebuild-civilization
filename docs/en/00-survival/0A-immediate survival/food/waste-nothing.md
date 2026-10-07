@@ -17,6 +17,7 @@ To utilize every component of an animal kill for survival, ensuring that nothing
 
 ## System
 Survival in a post-collapse world where every animal killed represents hours of effort, calories spent, and risk taken.
+An animal should be treated as a complete resource: food, fat, hide, sinew, bone, organs and containers may all have useful applications.
 
 ## Technology
 - **Bone Superiority:** Bone is harder than wood and holds an edge longer, making it superior for certain tools.
@@ -78,6 +79,8 @@ Survival in a post-collapse world where every animal killed represents hours of 
 
 ## Notes
 - Nothing is waste: Every component has a function.
+- Avoid waste, because the energy expended in obtaining the animal has already been used up.
+- Animal-based resources can be used as substitutes for materials that are difficult to produce: needles, thread, rope, containers, ties and tools.
 - Bone needles and awls are essential for making fitted clothing from hides; time spent making them well is critical.
 - Bone needles are fragile and must be stored in a protective case (hollow reed or bone).
 - Brain tanning is labor-intensive and requires constant attention during the working/drying phase.

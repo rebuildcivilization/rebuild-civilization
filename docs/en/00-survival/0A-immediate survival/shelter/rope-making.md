@@ -65,3 +65,4 @@ Approximate breaking strengths for well-made two-ply reverse-wrap cordage:
 *   Thigh rolling is the fastest hand method, roughly twice the speed of finger twisting.
 *   A properly made nettle/dogbane cord (1/4 inch diameter) holds 100–200 lbs; sinew of the same diameter holds 200–400 lbs.
 *   The key takeaway for strength is that fibers lock together when twisted, preventing slippage under load.
+*   Carry cordage because replacing it from natural materials requires significant time, energy and skill.

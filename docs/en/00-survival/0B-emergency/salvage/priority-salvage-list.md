@@ -33,8 +33,21 @@ Material priority is structured across four tiers based on immediate survival ne
 *   **Communications Equipment:** Hand-crank or battery AM/FM radio, FRS/GMRS walkie-talkies, Ham radio equipment, CB radio, signal mirrors, whistles, and flares.
 *   **Barter Goods:** Alcohol, tobacco, salt, coffee and tea, ammunition (common calibers), and hygiene products.
 
+### Compact personal survival kit
+- fire starter
+- small knife
+- compass
+- magnifying lens
+- needles and strong thread
+- fishing hooks and line
+- small repair material
+- signaling/reflective surface
+- small quantity of tinder
+
+
 ## System
 The Salvage Triage Framework dictates the process, built on the principle: **prioritize items that are impossible or extremely difficult to make from scratch, in the order you will need them.**
+Items that are difficult to reproduce in the field should be prioritized for permanent personal carry.
 
 **Time Pressure Realities:**
 *   **Hours 0-72:** Best window; structures are relatively stable.
@@ -70,11 +83,20 @@ The Salvage Triage Framework dictates the process, built on the principle: **pri
 4. Establish fire (bow drill, hand drill, fire plow).
 5. Establish shelter (debris hut, lean-to, snow cave).
 
+**Personal survival kit:**
+1. Limit the kit to items that are genuinely multifunctional.
+2. Keep your personal kit separate from the main equipment.
+3. Always carry it with you when travelling.
+4. Check it regularly for wear and tear and to ensure it is in working order.
+5. Replace any worn or damaged items immediately.
+
+
 ## Notes
 *   **Salvage Ethics:** Occupied homes and defended positions are not salvage targets. Taking from the living is considered robbery; leaving a note about what was taken and where one went prevents conflict.
 *   **Food Viability:** Seed and food salvage requires viability testing and storage planning.
 *   **Fire Redundancy:** Redundancy is critical for fire-starting equipment.
 *   **Material Superiority:** Items that take months or years to produce from scratch (e.g., wool blanket, antibiotics) are worth risking a trip for.
+*   **Survival Kit:** The kit mustn’t be so big that it becomes cumbersome, otherwise there’s a greater chance it will be left behind just when it’s needed.
 
 **Salvage Location Priority Map Summary:**
 | Location | Priority | Key Items | Risk Level |

@@ -16,10 +16,13 @@ To secure animal protein and fat, which are the most efficient calories in a sur
 - Feathers (for fletching)
 
 ## System
-- Traps work 24 hours a day while the hunter sleeps.
+- Traps work 24 hours a day while the hunter sleeps. Trapping should be regarded as a passive collection method that frees up time for other activities.
 - Snares have a roughly 10–20% daily catch rate per snare.
 - Deadfall traps use a heavy weight held by a trigger mechanism to kill instantly when the trigger is disturbed.
 - A properly set snare on an active trail catches game within 1–3 days.
+- The number of traps must be proportionate to the capacity to monitor them.
+- An unmonitored trap increases the risk of food loss, predation and unnecessary suffering for the animal
+- Check the trap lines regularly and change the position or bait if a trap is not catching anything.
 
 ## Technology
 - **Trapping Efficiency:** The numbers drive results; setting 10–20 snares across an area maximizes food odds.
@@ -35,6 +38,15 @@ To secure animal protein and fat, which are the most efficient calories in a sur
 - Knife and sharp stone
 
 ## Process
+
+- Inspect the area before setting the traps.
+- Identify water sources, feeding areas and pathways.
+- Position the traps along active routes.
+- Check them at least once in the morning and once in the evening.
+- Remove any catch immediately.
+- Relocate traps that are not yielding results.
+- Avoid placing excessive pressure on the local wildlife.
+
 ### Tracking (Finding Animals Before Trapping)
 1. **Look for tracks:** Categorize by size (Small: mouse to squirrel; Medium: rabbit to raccoon; Large: deer to boar).
 2. **Look for scat:** Fresh scat indicates recent presence (Pellet-shaped = rabbit or deer; Segmented with hair/bone = predator; Berry-filled = bear).
@@ -103,22 +115,5 @@ To secure animal protein and fat, which are the most efficient calories in a sur
 - **Safety First:** Kill cleanly to prevent the animal from breaking traps or spoiling its own meat with stress hormones.
 - **Environmental Awareness:** Check traps frequently (at least twice daily) and be aware of predators competing for the catch.
 - **Throwing Stick Reality:** The throwing stick is a supplement to trapping, not a replacement, and success requires practice.
-
-## Table of Contents
-- Hunting and Trapping
-- What You Need
-- Ethics and Safety First
-- Part 1: Tracking — Finding Animals Before Trapping Them
-- Part 2: The Simple Snare
-- Part 3: The Deadfall Trap
-- Part 4: The Throwing Stick
-- Part 5: Spear Making
-- Simple Sharpened Spear
-- Tipped Spear
-- Part 6: Improvised Bow and Arrow
-- Part 7: Field Dressing (Gutting) Game
-- Common Mistakes
-- What’s Next
-- Quick Reference Card
-- Trap Priority (Best Return on Effort)
-- Field Dressing Checklist
+- Trapping techniques must be adapted to local laws and the need to conserve the environment;
+- Traps can also be dangerous to people and non-target animals.

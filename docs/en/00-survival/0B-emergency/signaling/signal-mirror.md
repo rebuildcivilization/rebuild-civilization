@@ -17,6 +17,10 @@ A signal mirror works best when:
 
 * Signaling mirror.
 * Reflective material when a dedicated mirror is unavailable.
+  -  polished metal;
+  -  glass;
+  -  chrome;
+  -  other bright reflective surfaces.
 * Open or elevated location.
 
 ## System
@@ -51,3 +55,4 @@ Small changes in mirror orientation can move the reflected light over a large ar
 
 * A signaling mirror is particularly useful when fire or smoke is impractical.
 * The repository should treat the mirror as a signaling technology rather than as a specific military item.
+* In a post-disaster environment, reflective salvage can replace a dedicated signal mirror.
