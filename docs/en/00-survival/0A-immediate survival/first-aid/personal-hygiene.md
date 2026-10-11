@@ -120,6 +120,9 @@ This process requires care because concentrated alkaline solutions can cause sev
 7. Inspect skin for wounds and irritation.
 8. Keep wounds protected from contamination.
 9. Keep human waste away from living and food-preparation areas.
+10. Keep your nails short;
+11. dry/air out clothes and bedding regularly;
+
 
 ### Water-Limited Hygiene
 

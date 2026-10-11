@@ -48,6 +48,11 @@ To safely cook food using simple containers, hot coals and improvised cooking st
 7. Cook food thoroughly when safety requires it.
 8. Preserve unused food promptly.
 
+Fish and game must be thoroughly cooked because of parasites/pathogens;
+Boiling preserves the fat/nutrients in the cooking liquid;
+roasting can lose valuable fat;
+Cook only the quantity that can be consumed/preserved safely.
+
 ## Notes
 - The source specifically recommends green hardwood rather than resinous wood for improvised rotisserie/- cooking sticks.
 - Cooking should be considered part of the fire-management system, not a separate activity.

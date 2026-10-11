@@ -119,6 +119,11 @@ A fire lit near shelter must also be planned with safety whilst sleeping in mind
    3. Transfer the embers to the channel.
    4. Use this area for cooking.
 
+### Fire extinguishing
+1. drown;
+2. stir;
+3. feel;
+4. repeat if hot spots remain.
 
 ## Notes
 - Buried fires must be located in mineral soil (clay, sand, gravel) to prevent underground ignition of root systems.
@@ -129,3 +134,4 @@ A fire lit near shelter must also be planned with safety whilst sleeping in mind
 - The Dakota fire is not automatically more efficient: the draught also increases fuel consumption.
 - The choice of fire lay should depend on heat, duration, cooking and fuel availability, not on a universally ‘best’ configuration.
 - Conserving energy and resources is part of survival; it’s not just about being able to light a fire.
+- Take care of the CO risk in enclosed shelters.

@@ -38,6 +38,17 @@ Exploration should be recorded as a sequence of direction and distance measureme
 
 
 ## Process
+
+### Initial orientation
+Before setting off:
+- identify your location;
+- availability of water;
+- shelter;
+- terrain;
+- direction of travel;
+- any hazardous areas;
+- possible rescue location.
+
 ### Method 1: The Shadow Stick (Daytime)
 1. Find flat, open ground with direct sunlight. Push a straight stick vertically into the ground.
 2. Mark the shadow tip with a small rock (First Point, W in Northern Hemisphere).

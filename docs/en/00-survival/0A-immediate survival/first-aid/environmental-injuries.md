@@ -7,6 +7,11 @@ To provide first aid guidance for environmental injuries caused by Heat, Cold, a
 Recognition and treatment of environmental injuries, including recognizing the critical differences between heat exhaustion and heat stroke, and understanding the stages of hypothermia and frostbite.
 
 ## Material
+They depend on the treatment and the injuries.
+
+## System
+The overall system involves recognizing the severity of environmental injuries and applying specific, time-critical first aid treatments.
+
 ### Heat-Related Injuries
 *   **Heat Exhaustion:** The body’s warning that the cooling system is overwhelmed; survivable and reversible if caught early.
 *   **Heat Stroke:** A life-threatening emergency where the cooling system has failed.
@@ -22,8 +27,12 @@ Recognition and treatment of environmental injuries, including recognizing the c
 *   **Near-Drowning:** A risk where secondary drowning can occur hours later as fluid in the lungs causes inflammation and breathing difficulty.
 *   **Cold Water Drowning:** Cold water rapidly causes hypothermia and triggers the mammalian diving reflex.
 
-## System
-The overall system involves recognizing the severity of environmental injuries and applying specific, time-critical first aid treatments.
+### Carbon monoxide
+- colorless;
+- odorless;
+- associated with incomplete combustion;
+- particularly dangerous in poorly ventilated shelters.
+
 
 ## Technology
 *   **Core Temperature Thresholds:** 35-32 C (Mild Hypothermia), 32-28 C (Moderate Hypothermia), Below 28 C (Severe Hypothermia).
@@ -35,6 +44,7 @@ The overall system involves recognizing the severity of environmental injuries a
 *   Warm drinks (sweet fluids).
 *   Insulation materials (blankets, dry leaves/grass).
 *   Pain management options (willow bark tea, alcohol).
+*   carbon monoxide poisoning
 
 ## Process
 ### Heat Exhaustion Treatment
@@ -75,6 +85,13 @@ The overall system involves recognizing the severity of environmental injuries a
 5. Do not attempt to drain water from the lungs mechanically (aspirated water is absorbed).
 6. Place the person in the recovery position.
 7. Monitor for 24-48 hours for secondary drowning symptoms.
+
+### Carbon monoxide
+- Suspect CO when multiple people develop headache, dizziness or confusion in the same enclosed environment.
+- Remove the victim from the contaminated environment.
+- Provide fresh air.
+- Improve ventilation.
+- Prevent recurrence.
 
 ### Prevention
 *   **Hydration:** 250 ml water every 30 minutes during physical work in heat.

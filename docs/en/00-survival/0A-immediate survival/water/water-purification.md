@@ -34,6 +34,7 @@ Water Purification employs several methods, including Boiling, Filtration, Solar
 - Clear plastic sheet or tarp (for solar still).
 
 ## Process
+
 ### Water Source Finding (In order of preference)
 1. Springs (cleanest natural source).
 2. Fast-moving streams (better than still water; look upstream).
@@ -42,6 +43,13 @@ Water Purification employs several methods, including Boiling, Filtration, Solar
 5. Lakes and ponds.
 6. Transpiration bags (tie plastic bag over leafy branches).
 7. Snow and ice (MELT FIRST, then purify).
+
+Snow must be melted before consumption;
+Ice contains more water per unit volume than snow, so it is generally more efficient to melt;
+Do not put snow or ice directly into your mouth;
+Use body heat to melt snow whilst on the move, placing it in a container or bag between layers of clothing, not in direct contact with the skin;
+Do not use fuel to melt snow when drinking water is available
+
 
 ### Water Purification Methods
 
@@ -100,3 +108,4 @@ The best sequence for purification is: pre-filter through cloth, then run throug
 - **Best Combination:** The most reliable purification sequence is to pre-filter through cloth, then run through the sand/charcoal filter, and finally boil.
 - **Water Quality Check:** Flowing water is preferred over still water; upstream is preferred over downstream.
 - **Post-Purification Storage:** Store purified water in a clean container with a cover to prevent recontamination.
+- Snow and ice are not automatically microbiologically safe; their quality depends on their source; snow may be contaminated.

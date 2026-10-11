@@ -60,11 +60,16 @@ To maintain interior temperatures near 0 degrees C even when outside air drops t
 4. Insulate the floor with pine boughs, a sleeping pad, or packed snow covered with any fabric.
 5. Block one end completely and leave the other end as the entrance, partially blocked with a pack or snow block.
 
+* the ceiling in the entrance hall is lower than that in the sleeping area;
+* be aware of the risk of the structure collapsing.
+
 **Tree Well Shelter Process:**
 1. Find a large spruce or fir with low-hanging branches and a visible well around the trunk (well should be at least waist-deep).
 2. Carefully climb or slide into the well; the branches above serve as the roof.
 3. Dig out the well floor to create more headroom and pack the walls.
 4. Add boughs from nearby dead trees to the floor for insulation and pull lower branches down to anchor gaps with snow.
+5. You can cover the hole with branches from other trees
+
 
 ### Staying Dry Inside
 *   Smooth the ceiling so water runs down walls.

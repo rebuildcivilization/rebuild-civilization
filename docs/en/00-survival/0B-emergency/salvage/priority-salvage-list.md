@@ -31,7 +31,7 @@ Material priority is structured across four tiers based on immediate survival ne
 **Tier 4: Strategic Reserves (First Week)**
 *   **Fuel & Energy Sources:** Gasoline (add stabilizer), diesel, propane tanks, batteries (sorted by chemistry, lithium last longest), solar panels, firewood, and coal.
 *   **Communications Equipment:** Hand-crank or battery AM/FM radio, FRS/GMRS walkie-talkies, Ham radio equipment, CB radio, signal mirrors, whistles, and flares.
-*   **Barter Goods:** Alcohol, tobacco, salt, coffee and tea, ammunition (common calibers), and hygiene products.
+*   **Barter Goods:** Alcohol, salt, coffee and tea, ammunition (common calibers), and hygiene products.
 
 ### Compact personal survival kit
 - fire starter

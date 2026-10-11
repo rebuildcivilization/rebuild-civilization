@@ -56,3 +56,6 @@ Small changes in mirror orientation can move the reflected light over a large ar
 * A signaling mirror is particularly useful when fire or smoke is impractical.
 * The repository should treat the mirror as a signaling technology rather than as a specific military item.
 * In a post-disaster environment, reflective salvage can replace a dedicated signal mirror.
+- A mirror as a very low-energy tool;
+- particularly useful in daylight;
+- to be used in conjunction with a whistle, smoke or fire; do not rely on it as your sole means of signalling.

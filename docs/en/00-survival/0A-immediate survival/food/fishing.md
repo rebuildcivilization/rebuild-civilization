@@ -5,6 +5,10 @@ To acquire reliable sources of animal protein by utilizing various fishing metho
 
 ## Dependencies and prerequisites
 - Knots & Cordage Rope making, 8 key knots
+- ice fishing requires:
+    - assessment of ice stability;
+    - fishing holes/tools;
+    - cold exposure management.
 
 ## Material
 - Cordage
@@ -85,6 +89,13 @@ To acquire reliable sources of animal protein by utilizing various fishing metho
 3. **Refraction Rule:** Aim lower than where the fish appears to be (e.g., aim 25% lower for a fish appearing 30 cm deep).
 4. **Execution:** Wade slowly. Strike with a fast, straight downward thrust to pin the fish to the bottom.
 
+### Ice fishing
+- assessing ice stability;
+- drilling a hole;
+- setting lines;
+- keeping hands dry and protected;
+- handling equipment in freezing conditions.
+
 ### Cleaning and Gutting Fish
 1. **Killing:** Kill humanely with a sharp blow to the top of the head between the eyes.
 2. **Scaling:** Scrape scales from tail to head with the back of a knife, shell, or rock (do outdoors).
@@ -92,6 +103,8 @@ To acquire reliable sources of animal protein by utilizing various fishing metho
 4. **Extraction:** Pull out the guts and scrape along the spine to remove the dark bloodline (kidney). Rinse the cavity.
 5. **Gill Removal:** Remove gills by cutting or pulling them out.
 6. **Final Step:** Cook immediately or preserve using drying, smoking, or salting.
+
+
 
 ## Notes
 - **Efficiency Principle:** Passive methods beat active methods. The most efficient starting method is a stone weir.

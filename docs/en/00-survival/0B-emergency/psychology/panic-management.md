@@ -13,6 +13,7 @@ This guide provides concrete, practiced techniques to override the body’s pani
 *   Panic is contagious, spreading through voice, movement, and breathing.
 *   Stress dramatically degrades decision-making ability, making logical thought difficult when heart rates exceed 175 BPM.
 
+
 ## System
 *   **Panic Response:** The body's automatic reaction to a detected threat.
 *   **Fight, Flight, or Freeze:** The three automatic responses:
@@ -20,6 +21,16 @@ This guide provides concrete, practiced techniques to override the body’s pani
     *   **Flight:** Running or fleeing.
     *   **Freeze:** Immobility and mental shutdown, identified as the most dangerous response as it causes the body to stop processing information and become a passive target.
 *   **Vagus Nerve/Parasympathetic System:** The system influenced by breathing techniques that controls heart rate and stress hormones.
+
+### Signs of stress:
+- difficulty making decisions;
+- angry outbursts;
+- forgetfulness;
+- low energy;
+- constant worrying;
+- increased mistakes;
+- withdrawal;
+- carelessness.
 
 ## Technology
 *   **The OODA Loop:** A framework for decision-making developed by John Boyd:
@@ -48,6 +59,11 @@ This guide provides concrete, practiced techniques to override the body’s pani
 *   **The “When-Then” Method:** Pre-programming responses (e.g., "When X happens, then Y will be the action").
 
 ## Process
+
+recognising stress in others;
+taking action before it affects decision-making;
+allocating tasks and responsibilities.
+
 ### Box Breathing (4-4-4-4)
 1.  Inhale through the nose for 4 seconds.
 2.  Hold the breath for 4 seconds.

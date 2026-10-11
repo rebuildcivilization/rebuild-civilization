@@ -18,6 +18,10 @@ Before attempting a crossing, evaluate:
 * Available flotation.
 * Alternative routes.
 
+cold-water immersion as a primary hazard;
+upstream/downstream assessment;
+alternative route assessment.
+
 ## Material
 
 Potential equipment includes:

@@ -17,6 +17,8 @@ To select, use and maintain cutting tools safely for firewood processing, shelte
 - Sharpening stone.
 - Spare handle/haft material where appropriate.
 - Protective covers.
+- File;
+- Spare/repair material.
 
 ## System
 - Use the smallest and safest tool capable of completing the task.
@@ -43,7 +45,7 @@ To select, use and maintain cutting tools safely for firewood processing, shelte
 
 ## Process
 1. Inspect the tool before use.
-2. Check the cutting edge and handle.
+2. Check the cutting edge and handle or the saw teeth.
 3. Establish a clear working area.
 4. Position the material securely.
 5. Use controlled strokes away from the body.
@@ -52,6 +54,13 @@ To select, use and maintain cutting tools safely for firewood processing, shelte
 8. Clean and dry the tool after use.
 9. Sharpen before storing.
 10. Protect the cutting edge.
+
+### Maintenance
+- Check the cutting edge and handle
+- Check the saw teeth.
+- Sharp the blade;
+- Check that the axe head is securely fastened;
+- Replace or repair a damaged handle.
 
 ## Notes
 - Cutting tools are disproportionately valuable because many other survival items can be manufactured with them.

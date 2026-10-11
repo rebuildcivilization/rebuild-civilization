@@ -33,6 +33,11 @@ To construct a Quinzhee, which is a hollowed-out mound of piled snow, serving as
 - A tarp or ground sheet for the sleeping platform.
 
 ## Process
+
+Avoid wearing too many layers whilst excavating to prevent sweating;
+Lay out dry equipment before entering;
+Check the ventilation regularly.
+
 ### Phase 1: Mounding (45-60 minutes)
 1. **Site Selection:** Select a flat or gently sloped site protected from wind, avoiding areas under heavy tree canopy or slopes steeper than about 10 degrees.
 2. **Base Area:** Stamp out a circular base area roughly 3 meters (10 feet) in diameter for a 2-person quinzhee. Add 60 cm to the diameter for each additional person.

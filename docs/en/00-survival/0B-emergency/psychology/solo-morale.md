@@ -111,6 +111,10 @@ The system relies on building external structure when the external world lacks i
 - Physical objects for holding on to identity.
 
 ## Process
+
+maintain productive occupation;
+to prevent isolation and boredom from turning into passivity.
+
 1. **Establish Structure:** Implement the Non-Negotiable Daily Framework.
 2. **Allocate Time:** Divide waking hours into Morning (high-priority), Midday (maintenance), and Afternoon (secondary).
 3. **Execute Daily Tasks:** Complete survival tasks, maintenance tasks, and productive tasks.

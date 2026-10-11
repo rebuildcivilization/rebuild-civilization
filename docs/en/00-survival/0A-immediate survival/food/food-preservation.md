@@ -148,6 +148,12 @@ Protect the food from animals, insects and contamination.
 5. Ensure ventilation with two pipes/channels (low for cold air in, high for warm air out).
 6. Store root vegetables in layers of dry sand or straw. Separate apples and pears from vegetables.
 
+### Freezing and refreezing
+- meat should be portioned before freezing;
+- avoid thaw/refreeze cycles;
+- cooling can be achieved using shaded water, damp earth, snow or ice.
+
+
 ## Notes
 *   **Critical Rule:** When in doubt, use more salt, more smoke, and thinner cuts. Over-preserved food tastes strong but is safe; under-preserved food can kill you.
 *   **Fat Handling:** Fat must be rendered (purified) before pemmican making, as fat on jerky will go rancid.

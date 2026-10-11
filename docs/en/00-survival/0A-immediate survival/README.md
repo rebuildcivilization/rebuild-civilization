@@ -2,6 +2,10 @@
 
 Define the essential action for survival, about first 72 hours.
 
+## Priorities
+[Survival priorities](survival-priorities.md)
+
+
 ## enviroment
 
 - [cold-weather-survival](enviroment/cold-weather-survival.md)
@@ -16,7 +20,7 @@ Define the essential action for survival, about first 72 hours.
 - [charcoal-basics](fire/charcoal-basics.md)
 - [fire-making](fire/fire-making.md)
 - [fire-management](fire/fire-management.md)
-- [fire_in_rain] (fire/fire_in_rain.md)
+- [fire_in_rain](fire/fire_in_rain.md)
 - [friction-fire](fire/friction-fire.md)
 - [hand-drill](fire/hand-drill.md)
 - [heat-reflection](fire/heat-reflection.md)
@@ -48,7 +52,7 @@ Define the essential action for survival, about first 72 hours.
 - [medical-emergencies](first-aid/medical-emergencies.md)
 - [medicinal-plants](first-aid/medicinal-plants.md)
 - [one-handed-tie](first-aid/one-handed-tie.md)
-- [personal-hygiene] (first-aid/personal-hygiene.md)
+- [personal-hygiene](first-aid/personal-hygiene.md)
 - [recovery-position](first-aid/recovery-position.md)
 - [rigid-splints](first-aid/rigid-splints.md)
 - [shock-treatment](first-aid/shock-treatment.md)
@@ -194,9 +198,10 @@ Define the essential action for survival, about first 72 hours.
 
 ## security
 
-- [cutting-tools](cutting-tools.md)
+- [cutting-tools](security/cutting-tools.md)
 - [escape-routes](security/escape-routes.md)
 - [situational-awareness](security/situational-awareness.md)
+- [survival-kit](security/survival-kit.md)
 - [thermal-management](security/thermal-management.md)
 - [threat-assessment](security/threat-assessment.md)
 
@@ -207,6 +212,7 @@ Define the essential action for survival, about first 72 hours.
 - [bark-stripping](shelter/bark-stripping.md)
 - [binding-knots](shelter/binding-knots.md)
 - [bowline](shelter/bowline.md)
+- [camp_features](shelter/camp_features.md)
 - [cordage-applications](shelter/cordage-applications.md)
 - [debris-hut](shelter/debris-hut.md)
 - [debris-layering](shelter/debris-layering.md)

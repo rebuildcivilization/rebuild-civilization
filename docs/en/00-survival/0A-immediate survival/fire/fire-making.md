@@ -80,6 +80,11 @@ Fire requires the simultaneous presence of three elements, known as the Fire Tri
 *   Cordage (shoelace, paracord, plant fiber rope, rawhide strip)
 
 ## Process
+
+* Prepare tinder → kindling → fuel before lighting the fire;
+* Do not start a fire lay without having enough fuel ready;
+* Prepare tinder specifically for cold/damp conditions.
+
 ### Fire Progression
 
 **Tinder:** Catches spark/ember and burns 5-30 seconds.

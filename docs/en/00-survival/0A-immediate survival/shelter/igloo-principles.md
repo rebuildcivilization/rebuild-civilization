@@ -64,6 +64,8 @@ To construct a self-supporting dome shelter using snow blocks to achieve cold we
 | Interior temperature | -2 to +2 C with body heat | -2 to 0 C |
 | Wind resistance | Excellent — aerodynamic dome | Good |
 
+The choice between an igloo, a quinzhee, a snow trench and a tree-pit depends on the quality and quantity of the snow, not simply on the temperature.
+
 ## Notes
 - **Critical Failure Point:** The most common mistake is not ensuring blocks lean inward enough, which prevents the upper rows from curving to form the dome. Blocks should lean inward roughly 10-15 degrees more than their vertical position.
 - **Structural Integrity:** The entrance should be cut only after the dome is complete to preserve structural integrity during construction.

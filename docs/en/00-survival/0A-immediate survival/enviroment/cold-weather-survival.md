@@ -19,18 +19,35 @@ Cold-weather survival depends on controlling:
 
 Cold, wet, and windy conditions can become dangerous even when temperatures are not extremely low.
 
+The following factors can contribute to hypothermia:
+- wind;
+- wet clothing;
+- exhaustion;
+- inadequate clothing;
+- cold-water immersion;
+- dehydration;
+- insufficient caloric intake.
+
 ## Material
 
 Useful equipment includes:
 
 * Insulating clothing.
+* insulated boots
 * Waterproof outer layer.
-* Extra socks.
+* Extra and thick socks.
 * Sleeping insulation.
 * Fire-starting equipment.
 * Shelter material.
 * Water container.
 * Insulated sleeping surface.
+* wool/synthetic base layers;
+* gloves;
+* balaclava/neck protection;
+* eye protection;
+* spare clothing.
+
+It’s better to wear synthetic or woollen clothing than cotton in cold weather.
 
 ## System
 
@@ -55,6 +72,12 @@ Wet clothing loses insulating effectiveness.
 
 Keep spare socks and essential clothing protected from moisture.
 
+It is advisable to wear three layers:
+- base layer;
+- insulating mid-layer;
+- wind/water-resistant outer layer.
+
+
 ### Feet
 
 Feet are particularly vulnerable during prolonged cold and wet exposure.
@@ -71,6 +94,7 @@ Keep them:
 Cold weather does not eliminate the need for water.
 
 Heavy clothing and physical activity can still result in significant water loss.
+
 
 ## Technology
 
@@ -102,12 +126,15 @@ In snow-covered terrain, a prepared base can prevent the fire from sinking into 
 2. Establish shelter.
 3. Insulate yourself from the ground.
 4. Replace or dry wet clothing when possible.
-5. Protect spare clothing and socks from moisture.
+5. Protect spare clothing and socks from moisture. Keep the gearbox dry.
 6. Establish a reliable fire when appropriate.
 7. Drink regularly.
-8. Inspect hands, feet, face, and ears for loss of sensation or abnormal color.
-9. Reduce unnecessary exertion.
-10. Maintain enough fuel for the expected duration of the cold period.
+8. Eating to maintain body heat;
+9. Inspect hands, feet, face, and ears for loss of sensation or abnormal color.
+10. Reduce unnecessary exertion and sweat.
+11. Maintain enough fuel for the expected duration of the cold period.
+12. Avoid prolonged immobility.
+
 
 ## Notes
 
@@ -117,3 +144,4 @@ In snow-covered terrain, a prepared base can prevent the fire from sinking into 
 * Wet socks can be dried using body heat when necessary, but care must be taken to avoid burns or excessive moisture.
 * Cold-weather clothing can hide dehydration because sweat and moisture may be absorbed by clothing.
 * Specific medical treatment of hypothermia and frostbite should be verified against current medical guidance.
+* It does not have to be extremely cold for it to become dangerous.

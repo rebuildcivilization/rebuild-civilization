@@ -17,6 +17,10 @@ Chemical disinfection uses oxidizing agents to kill pathogens in water when boil
 ## System
 Chemical disinfection is a method of water purification that employs oxidizing agents to destroy pathogens.
 
+Cold water increases required contact time for some chemical treatments;
+chemical treatment and boiling are not equivalent;
+Cryptosporidium is particularly resistant to some chemical treatments.
+
 ## Technology
 *   **Oxidizing Agents:** The core technology used to kill pathogens (chlorine, iodine, potassium permanganate).
 *   **SODIS:** Solar Disinfection method (used as a secondary kill step).

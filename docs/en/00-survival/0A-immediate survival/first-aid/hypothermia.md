@@ -5,8 +5,17 @@ To recognize hypothermia early and know how to reverse it to save lives in a sur
 
 ## Dependencies and prerequisites
 - Absence of a medical thermometer in most survival situations.
+- wet clothing;
+- cold-water immersion;
+- exhaustion;
+- inadequate clothing;
+- injury/immobility.
 
 ## Material
+
+## System
+The body's core temperature drops below 35°C (95°F), leading to heat loss exceeding heat production, which causes organ systems to shut down.
+
 **Definition of Hypothermia:**
 Hypothermia occurs when the body’s core temperature drops below 35°C (95°F). The body loses heat faster than it can produce it, leading to the shutdown of organ systems.
 
@@ -16,6 +25,7 @@ Watch for:
 - Mumbles: Slurred or slow speech, inability to finish sentences.
 - Fumbles: Dropping things, inability to use fingers, struggle with zippers.
 - Grumbles: Irritability, combative nature, refusal of help, irrational anger.
+- altered mental status.
 
 **Critical Warning:
 ** When shivering suddenly stops in someone who is still cold, they have gotten worse, not better.
@@ -49,9 +59,6 @@ In moderate to severe hypothermia, victims sometimes strip off clothing because 
 - Stay hydrated (dehydration accelerates heat loss).
 - Assign buddy checks in cold weather.
 
-## System
-The body's core temperature drops below 35°C (95°F), leading to heat loss exceeding heat production, which causes organ systems to shut down.
-
 ## Technology
 - None explicitly identified in the source text.
 
@@ -82,3 +89,4 @@ Wrap the victim in every layer of dry insulation available, including dry blanke
 - The critical rule for severe hypothermia is that the heart is extremely irritable; rough handling can trigger fatal cardiac arrest. Move severe hypothermia victims slowly and gently, keeping them horizontal.
 - Mild hypothermia caught early takes approximately 30 minutes to reverse.
 - The best treatment is prevention, focusing on staying dry, eating calories for fuel, and staying hydrated.
+- cessation of shivering is not necessarily improvement; in a still-cold person it can indicate worsening hypothermia.
