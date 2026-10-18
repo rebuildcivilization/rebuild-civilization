@@ -1,4 +1,4 @@
-# Lip Test Phase | Survival Wiki
+# Lip Test Phase
 
 ## Objective
 The Lip Test Phase is the second contact stage of the Universal Edibility Test (UET), designed to use the high sensitivity of lip tissue to detect plant toxins before they enter the body.

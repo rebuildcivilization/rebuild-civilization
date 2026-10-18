@@ -1,4 +1,4 @@
-# Wound Management | Survival Wiki
+# Wound Management
 
 ## Objective
 To teach critical survival skills for wound management in a world without hospitals, emphasizing that every cut, scrape, and puncture is a potential death sentence if it becomes infected. Knowing how to clean, close, and care for wounds is one of the most critical survival skills.

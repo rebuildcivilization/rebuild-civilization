@@ -28,6 +28,30 @@ First aid starts with the imperative: clean hands, clean water, and clean materi
 *   Butterfly closures from tape (for emergency suture)
 
 ## System
+The overall system prioritizes immediate, clean interventions to bridge the gap until long-term medical care is possible.
+
+### Evidence and Safety Principles
+
+First-aid procedures should prioritize interventions supported by recognized medical guidance.
+
+Improvised materials may be necessary when standard supplies are unavailable, but they must not be presented as equivalent to sterile medical equipment or validated treatments.
+
+Key principles include:
+
+- Control life-threatening bleeding promptly.
+- Protect the airway and assess breathing.
+- Activate emergency medical services whenever available.
+- Use clean water for appropriate wound irrigation.
+- Avoid introducing unclean materials into wounds.
+- Do not attempt invasive procedures without appropriate training.
+- Do not delay evacuation or professional treatment when serious
+  injury or illness is suspected.
+
+Traditional remedies and improvised treatments require separate evaluation of their evidence, risks, and limitations.
+
+Each medical procedure should identify its indications, contraindications, major risks, and circumstances requiring urgent medical assistance.
+
+
 ### Core Principle: Clean Hands, Clean Water, Clean Materials
 *   Infection is the number one killer in post-medical-infrastructure scenarios. Every first aid intervention must start by making it as clean as possible.
 *   Wash hands before touching any wound, even if only rinsing with clean water.
@@ -123,7 +147,7 @@ First aid starts with the imperative: clean hands, clean water, and clean materi
 | Popping burn blisters | Removes nature’s sterile bandage, invites infection | Leave blisters intact; clean and cover if they break naturally |
 | Moving a spinal injury patient | Bone fragments can sever the spinal cord, causing paralysis | Stabilize in place unless immediate danger requires moving |
 
-## Notes
+### Notes
 *   **Golden Rule of Wound Care:** A clean wound that is left open heals better than a dirty wound that is closed.
 *   **Infection Alert:** Red streaks extending from a wound toward the heart are an emergency signaling systemic infection.
 *   **Environmental Injuries:** Treat heat injuries with cool water; treat cold injuries with warm fluids and rewarming steps (skin-to-skin, warm fluids) for hypothermia.
@@ -131,33 +155,27 @@ First aid starts with the imperative: clean hands, clean water, and clean materi
 
 ## Technology
 *   The knowledge required for successful first aid in a post-medical-infrastructure setting.
+*   The underlying technology is the application of physical principles (pressure, cooling, elevation, stabilization) to manage physiological trauma.
+
 
 ## Tools
 *   Basic first aid supplies (scavenge or improvise).
 *   A tourniquet (for severe bleeding).
 *   Rigid objects for splinting.
 *   Water purification source (implied dependency).
+*   The essential tools are improvised resources (cloth, sticks, moss, honey) when basic tools are absent.
+
 
 ## Process
 *   **Core Imperative:** Clean Hands, Clean Water, Clean Materials.
+*   **Core Process:** Following the hierarchy of needs: Cleanliness $\rightarrow$ Control Bleeding $\rightarrow$ Manage Specific Injuries (Fracture, Burn, Shock, CPR) $\rightarrow$ Long-term care.
 *   **Bleeding Control Process:** Expose $\rightarrow$ Direct Pressure (15 min) $\rightarrow$ Secure $\rightarrow$ Elevate (limbs) $\rightarrow$ Tourniquet (last resort).
 *   **Wound Care Process:** Irrigate $\rightarrow$ Remove debris $\rightarrow$ Apply antiseptic $\rightarrow$ Cover $\rightarrow$ Monitor for infection.
 *   **Fracture Management Process:** Assess $\rightarrow$ Splint in position $\rightarrow$ Secure $\rightarrow$ Check circulation.
 *   **CPR Process:** Check responsiveness $\rightarrow$ Start compressions (5 cm deep, 100-120/min) $\rightarrow$ Give 2 breaths $\rightarrow$ Repeat.
 *   **Shock Management Process:** Position flat $\rightarrow$ Elevate legs $\rightarrow$ Keep warm $\rightarrow$ Treat cause $\rightarrow$ Monitor.
 
-## System
-*   The overall system prioritizes immediate, clean interventions to bridge the gap until long-term medical care is possible.
-
-## Technology
-*   The underlying technology is the application of physical principles (pressure, cooling, elevation, stabilization) to manage physiological trauma.
-
-## Tools
-*   The essential tools are improvised resources (cloth, sticks, moss, honey) when basic tools are absent.
-
-## Process
-*   **Core Process:** Following the hierarchy of needs: Cleanliness $\rightarrow$ Control Bleeding $\rightarrow$ Manage Specific Injuries (Fracture, Burn, Shock, CPR) $\rightarrow$ Long-term care.
-
 ## Notes
 *   **Survival Context:** The entire protocol is optimized for a scenario without hospitals, ambulances, or pharmacies.
 *   **Key Differentiator:** The difference between a recoverable injury and a fatal one rests on applying these foundational principles correctly.
+

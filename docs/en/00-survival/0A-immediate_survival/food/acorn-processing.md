@@ -1,4 +1,4 @@
-# Acorn Processing | Survival Wiki
+# Acorn Processing
 
 ## Objective
 To transform a bitter, stomach-wrecking nut into a nutritious flour staple through proper tannin leaching.

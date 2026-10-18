@@ -1,4 +1,4 @@
-# Square Lashing | Survival Wiki
+# Square Lashing
 
 ## Objective
 Square lashing is the single most important construction technique for binding two poles at a right angle. It is the joint that holds together shelter frames, ladders, tables, bridges, watchtowers, and virtually every pole-built structure in human history.

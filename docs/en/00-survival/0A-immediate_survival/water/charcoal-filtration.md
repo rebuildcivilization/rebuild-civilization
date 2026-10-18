@@ -77,6 +77,9 @@ Always follow charcoal filtration with boiling or another disinfection method, a
 | Coconut shell | Excellent | Coastal tropical areas | One of the best natural carbon sources, very hard and porous |
 | Activated charcoal | Superior | Requires extra processing | Chemically or steam-treated to massively increase pore structure |
 
+Please note: ordinary vegetable charcoal does not have the same contaminant-removal capacity as activated charcoal.
+
+
 ### What Charcoal Removes vs. What It Misses
 | Contaminant | Removed by Charcoal? | Notes |
 | :--- | :--- | :--- |

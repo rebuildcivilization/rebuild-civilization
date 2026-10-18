@@ -1,4 +1,4 @@
-# Edible Categories | Survival Wiki
+# Edible Categories
 
 ## Objective
 > Wild edible plants fall into distinct categories based on which part you eat and how you process it. Understanding these categories helps you systematically assess any environment for food potential.

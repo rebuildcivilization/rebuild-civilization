@@ -1,4 +1,4 @@
-# Debris Layering | Survival Wiki
+# Debris Layering
 
 ## Objective
 Part of Emergency Shelter Proper debris layering transforms a stick framework into a weatherproof, insulated cocoon that traps body heat and sheds rain.

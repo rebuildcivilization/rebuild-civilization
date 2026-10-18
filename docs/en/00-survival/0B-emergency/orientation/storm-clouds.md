@@ -1,4 +1,4 @@
-# Storm Clouds | Survival Wiki
+# Storm Clouds
 
 ## Objective
 Part of Weather Forecasting: Identifying dangerous cloud formations and estimating severity and time-to-impact.

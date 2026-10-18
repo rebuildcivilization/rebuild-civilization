@@ -1,4 +1,4 @@
-# Rope Strength Testing | Survival Wiki
+# Rope Strength Testing
 
 ## Objective
 To test handmade rope, hang it from an overhead anchor, add weight incrementally — rocks of roughly 2–5 kg each work well — and record the total load at which the rope breaks; that figure is the breaking strength.

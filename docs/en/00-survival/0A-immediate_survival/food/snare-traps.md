@@ -1,4 +1,4 @@
-# Snare Traps | Survival Wiki
+# Snare Traps
 
 ## Objective
 > Part of Hunting and Trapping

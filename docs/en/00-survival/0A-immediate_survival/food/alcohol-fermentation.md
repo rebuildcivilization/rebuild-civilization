@@ -1,4 +1,4 @@
-# Alcohol Fermentation | Survival Wiki
+# Alcohol Fermentation
 
 ## Objective
 Alcohol fermentation converts sugars into ethanol and carbon dioxide using wild yeast. The resulting alcohol acts as a preservative, a disinfectant, a solvent for herbal medicines, a trade commodity, and a morale booster.

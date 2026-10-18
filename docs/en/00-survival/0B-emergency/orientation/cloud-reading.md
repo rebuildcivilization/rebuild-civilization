@@ -78,17 +78,9 @@ Identifying cloud types by shape, altitude, and behavior to predict what weather
 - Cloud bases rising indicate improving conditions.
 - High clouds show the direction of the next air mass approaching.
 
-## Practical Observation Routine Summary
+### Practical Observation Routine Summary
 - Check the sky at Dawn, Mid-morning, Noon, Late afternoon, and Sunset.
 - Analyze cloud bases for pressure changes.
 - Analyze cloud movement direction across altitudes for forecasting.
 
-- [weather](../../tags/weather)
-- [clouds](../../tags/clouds)
-- [forecasting](../../tags/forecasting)
-- [phase-0](../../tags/phase-0)
-- [deep-dive](../../tags/deep-dive)
 
-Created with [Quartz v4.5.2](https://quartz.jzhao.xyz/) © 2026
-
-- [Download Offline Archive](/CivilizationRebuild-offline.zip)

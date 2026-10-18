@@ -1,4 +1,4 @@
-# Heat Stroke: Rapid Cooling Protocol | Survival Wiki
+# Heat Stroke: Rapid Cooling Protocol
 
 ## Objective
 The objective of the protocol is to rapidly cool the core temperature of an affected person below 39°C (102°F) within roughly 30 minutes to prevent permanent brain damage or death.

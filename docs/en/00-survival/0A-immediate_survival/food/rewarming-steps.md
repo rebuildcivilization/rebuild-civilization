@@ -1,4 +1,4 @@
-# Rewarming Steps | Survival Wiki
+# Rewarming Steps
 
 ## Objective
 Active rewarming is the next critical step once hypothermia has been recognized and heat loss has been stopped.

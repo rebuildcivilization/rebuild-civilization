@@ -1,4 +1,4 @@
-# Leaf Patterns | Survival Wiki
+# Leaf Patterns
 
 ## Objective
 To use leaf patterns as the single most useful feature for identifying plants in the field.

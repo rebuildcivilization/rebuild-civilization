@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="900" viewBox="0 0 1100 900" role="img" aria-labelledby="title desc">
+<title id="title">Water treatment decision guide</title>
+<desc id="desc">A high-level decision aid distinguishing suspected biological contamination, turbidity, chemical contamination, and unknown hazards.</desc>
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#334155"/></marker>
+  <style>
+    .box{fill:#f8fafc;stroke:#334155;stroke-width:2.5;rx:16}
+    .warn{fill:#fff7ed;stroke:#c2410c;stroke-width:2.5;rx:16}
+    .safe{fill:#ecfdf5;stroke:#047857;stroke-width:2.5;rx:16}
+    .text{font-family:Arial,Helvetica,sans-serif;fill:#0f172a;font-size:22px;text-anchor:middle}
+    .small{font-family:Arial,Helvetica,sans-serif;fill:#334155;font-size:18px;text-anchor:middle}
+    .arrow{fill:none;stroke:#334155;stroke-width:3;marker-end:url(#arrow)}
+  </style>
+</defs>
+<rect width="1100" height="900" fill="#fff"/>
+<text x="550" y="48" class="text" font-size="31" font-weight="700">WATER TREATMENT DECISION GUIDE</text>
+<text x="550" y="78" class="small">Identify the likely hazard before choosing a treatment</text>
+<rect x="300" y="110" width="500" height="75" class="box"/>
+<text x="550" y="141" class="text" font-weight="700">ASSESS THE WATER SOURCE</text>
+<text x="550" y="168" class="small">Clear appearance does not prove safety</text>
+<path d="M550 185 V218 H160 V250" class="arrow"/>
+<path d="M550 218 H430 V250" class="arrow"/>
+<path d="M550 218 H700 V250" class="arrow"/>
+<path d="M550 218 H940 V250" class="arrow"/>
+<rect x="25" y="254" width="270" height="100" class="box"/>
+<text x="160" y="286" class="text" font-weight="700">TURBID / CLOUDY?</text>
+<text x="160" y="316" class="small">Remove particles first</text>
+<text x="160" y="339" class="small">if the method requires it</text>
+<rect x="305" y="254" width="250" height="100" class="box"/>
+<text x="430" y="286" class="text" font-weight="700">BIOLOGICAL RISK?</text>
+<text x="430" y="316" class="small">Use validated disinfection</text>
+<text x="430" y="339" class="small">or an effective treatment</text>
+<rect x="570" y="254" width="260" height="100" class="warn"/>
+<text x="700" y="286" class="text" font-weight="700">CHEMICAL RISK?</text>
+<text x="700" y="316" class="small">Boiling may not help</text>
+<text x="700" y="339" class="small">and can concentrate some hazards</text>
+<rect x="845" y="254" width="230" height="100" class="warn"/>
+<text x="960" y="286" class="text" font-weight="700">UNKNOWN HAZARD?</text>
+<text x="960" y="316" class="small">Do not assume</text>
+<text x="960" y="339" class="small">any method is sufficient</text>
+<path d="M160 354 V398" class="arrow"/>
+<path d="M430 354 V398" class="arrow"/>
+<path d="M700 354 V398" class="arrow"/>
+<path d="M960 354 V398" class="arrow"/>
+<rect x="25" y="402" width="270" height="108" class="box"/>
+<text x="160" y="435" class="text" font-weight="700">CLARIFY / FILTER</text>
+<text x="160" y="464" class="small">Improvised filters may improve</text>
+<text x="160" y="487" class="small">clarity, not ensure safety</text>
+<rect x="305" y="402" width="250" height="108" class="safe"/>
+<text x="430" y="435" class="text" font-weight="700">DISINFECT</text>
+<text x="430" y="464" class="small">Follow authoritative guidance</text>
+<text x="430" y="487" class="small">and product instructions</text>
+<rect x="570" y="402" width="260" height="108" class="warn"/>
+<text x="700" y="435" class="text" font-weight="700">AVOID SOURCE</text>
+<text x="700" y="464" class="small">Unless an appropriate method</text>
+<text x="700" y="487" class="small">for that contaminant is known</text>
+<rect x="845" y="402" width="230" height="108" class="warn"/>
+<text x="960" y="435" class="text" font-weight="700">SEEK SAFER SOURCE</text>
+<text x="960" y="464" class="small">If safety cannot</text>
+<text x="960" y="487" class="small">be established</text>
+<path d="M160 510 V554 H430 V590" class="arrow"/>
+<path d="M430 510 V590" class="arrow"/>
+<rect x="250" y="594" width="360" height="95" class="safe"/>
+<text x="430" y="627" class="text" font-weight="700">STORE SAFELY</text>
+<text x="430" y="656" class="small">Prevent recontamination after treatment</text>
+<rect x="650" y="594" width="400" height="95" class="warn"/>
+<text x="850" y="627" class="text" font-weight="700">IMPORTANT LIMITATION</text>
+<text x="850" y="656" class="small">Microbial treatment does not remove</text>
+<text x="850" y="679" class="small">all chemicals, salts, or heavy metals</text>
+<text x="550" y="755" class="small">When chemical contamination is suspected, do not rely on boiling or improvised filtration.</text>
+<text x="550" y="785" class="small">This diagram is a high-level guide, not a substitute for local public-health advice.</text>
+</svg>

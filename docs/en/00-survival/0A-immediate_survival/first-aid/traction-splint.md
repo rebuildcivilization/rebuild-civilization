@@ -1,4 +1,4 @@
-# Traction Splint | Survival Wiki
+# Traction Splint
 
 ## Objective
 To counteract the muscle force in a femur fracture by applying a continuous pulling force through an ankle hitch against a pelvic anchor, thereby preventing the powerful thigh muscles from pulling the broken bone ends past each other, stopping vessel tearing, and preventing 1–2 liters of internal bleeding that can lead to fatal hemorrhagic shock.

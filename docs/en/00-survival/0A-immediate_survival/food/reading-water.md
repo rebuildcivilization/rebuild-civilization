@@ -1,4 +1,4 @@
-# Reading Water | Survival Wiki
+# Reading Water
 
 ## Objective
 > The surface of moving water tells you everything happening beneath it — depth, speed, obstacles, and where fish hold. Learning to read these signals turns any stretch of river into a map of opportunity.

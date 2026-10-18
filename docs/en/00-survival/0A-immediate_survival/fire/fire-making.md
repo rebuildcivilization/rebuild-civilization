@@ -85,6 +85,35 @@ Fire requires the simultaneous presence of three elements, known as the Fire Tri
 * Do not start a fire lay without having enough fuel ready;
 * Prepare tinder specifically for cold/damp conditions.
 
+### Choosing a Fire-Starting Method
+
+The best fire-starting method depends on the available equipment,
+weather conditions, fuel moisture, local materials, and the operator's
+experience.
+
+When available, a reliable lighter or weather-resistant matches are
+usually preferable to improvised ignition methods. Carry a backup
+ignition source whenever possible.
+
+Traditional and improvised methods include:
+
+- **Spark-based ignition:** A suitable striker produces sparks that
+  ignite an appropriate tinder material.
+- **Bow drill:** A bow rotates a wooden spindle against a fireboard,
+  generating friction heat.
+- **Hand drill:** A spindle is rotated directly between the hands.
+- **Other friction methods:** Methods such as the fire plough rely
+  on sustained friction between suitable materials.
+
+Friction-based methods require practice and carefully selected,
+sufficiently dry materials. They should not be assumed to work
+reliably in wet or cold conditions.
+
+Choose a method that can be completed with the resources available
+before investing time and energy in preparing it.
+
+![Choosing Fire Starting Methods](../images/fire/fire-starting-methods.svg)
+
 ### Fire Progression
 
 **Tinder:** Catches spark/ember and burns 5-30 seconds.

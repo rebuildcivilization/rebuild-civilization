@@ -52,23 +52,13 @@ Observation of cloud traits such as width versus height, altitude, texture, cove
 ## Process
 The process involves recognizing stable cloud types, monitoring for transitions (e.g., humilis to congestus), and tracking the progression of high-altitude clouds (Cirrus to Cirrostratus) to predict the arrival of fronts and precipitation.
 
-## Notes
-- The text explicitly references the sequence of warm front progression: cirrus to cirrostratus to altostratus to rain.
-- The core distinction for fair weather clouds is their stability and the trait that they are 'wider than tall'.
-- The download option for an 'Offline Archive' is mentioned as an available tool.
-
-## Technology
-- Quartz v4.5.2 was used for creation.
-
-## Tools
-- Download Offline Archive
-
-## Process
 - Observation and recognition of stable cloud types.
 - Monitoring vertical growth and base changes to determine stability.
 - Tracking high-altitude sequences to predict warm front arrival.
 
-Notes
+## Notes
+- Sequence of warm front progression: cirrus to cirrostratus to altostratus to rain.
+- The core distinction for fair weather clouds is their stability and the trait that they are 'wider than tall'.
 - Fair weather clouds are defined by their stability and characteristic shape (wider than tall).
 - Cumulus humilis requires flat bases and rounded tops.
 - Cirrus indicates stable conditions; thickening indicates an approaching warm front.

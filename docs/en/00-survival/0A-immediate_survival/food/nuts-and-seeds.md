@@ -1,4 +1,4 @@
-# Nuts and Seeds | Survival Wiki
+# Nuts and Seeds
 
 ## Objective
 To identify, harvest, process, and store nuts and seeds, which are the most calorie-dense wild foods available, to solve the calorie problem in a survival situation.

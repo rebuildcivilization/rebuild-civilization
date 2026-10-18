@@ -1,4 +1,4 @@
-# Debris Hut | Survival Wiki
+# Debris Hut
 
 ## Objective
 The debris hut is the gold standard no-tool emergency shelter: a fully enclosed cocoon built from dead leaves, needles, and sticks that uses your body heat alone to stay survivable in freezing conditions. It works by sealing a small air volume around you—just wide enough for your body at the shoulders—so the debris walls trap the warmth your body produces, the same principle as a sleeping bag.

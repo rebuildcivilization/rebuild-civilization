@@ -34,6 +34,17 @@ Filtration relies on four distinct mechanisms to remove contaminants:
 3.  **Adsorption:** Certain filter media attract dissolved contaminants to their surfaces via chemical and electrostatic forces. Charcoal is the classic adsorptive medium for binding organic chemicals, chlorine, and some heavy metals. Activated charcoal offers superior adsorptive capacity due to its enormous internal surface area.
 4.  **Biological Activity:** In continuous systems (like slow sand filters), a living ecosystem (bacteria, algae, protozoa, invertebrates) develops on the filter surface, which actively consumes waterborne pathogens.
 
+### Filtration Is Not Disinfection
+
+Filtration performance depends on the filter design, pore size, construction quality, and condition.
+
+A simple improvised filter made from cloth, sand, gravel, or charcoal may improve clarity, but it must not be assumed to remove all pathogens or chemical contaminants.
+
+Where microbiological contamination is possible, use an appropriate disinfection method after filtration when required by the treatment procedure.
+
+If chemical contamination is suspected, determine whether the chosen treatment is effective against the specific contaminant. When safety cannot be established, avoid using the source.
+
+
 ## Tools
 *   Container (drill, punch, or poke drainage holes).
 *   Support layers (coarse gravel).

@@ -115,4 +115,3 @@ Floats are attached every 50-80 cm (20-30 inches). Weights are attached every 50
     *   Mesh size must be tailored to the target species.
     *   Religiously drying, treating, and repairing the net is crucial because it is a valuable asset.
 
-Created with Quartz v4.5.2 © 2026

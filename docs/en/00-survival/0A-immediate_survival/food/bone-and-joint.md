@@ -1,4 +1,4 @@
-# Bone and Joint | Survival Wiki
+# Bone and Joint
 
 ## Objective
 To detail the assessment, treatment, and recovery of bone and joint injuries in a survival scenario, emphasizing the critical need for proper handling to prevent permanent disability.

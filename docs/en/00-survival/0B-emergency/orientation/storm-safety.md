@@ -95,9 +95,6 @@ In any fixed camp or settlement, establish:
 ## System
 - None explicitly identified in the source text.
 
-## Technology
-- Quartz v4.5.2 (used for generation).
-
 ## Tools
 - Observation of weather phenomena (lightning, hail, cloud structure).
 - Reference points for storm tracking.
@@ -111,4 +108,3 @@ In any fixed camp or settlement, establish:
 ## Notes
 - The source text provides extensive, actionable protocols for immediate survival based on specific storm hazards.
 - The importance of practicing the plan is emphasized: "Practice the plan. In a real emergency, people default to what they have practiced, not what they have been told."
-- The metadata indicates the site name is 'Civilization Rebuild'.

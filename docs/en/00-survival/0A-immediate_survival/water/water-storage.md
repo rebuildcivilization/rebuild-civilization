@@ -32,6 +32,22 @@ Temperature is the single largest factor, as every 10 degrees Celsius of warming
 | Open container, uncovered | 4-8 hours |
 | Clay pot with lid, cool shade | 1-2 weeks |
 
+### Preventing Recontamination
+
+Treated water can become unsafe if it comes into contact with
+contaminated hands, containers, tools, or untreated water.
+
+- Use clean containers with suitable covers.
+- Keep collection and storage equipment separate from equipment
+  used for untreated water.
+- Avoid dipping hands or used utensils into stored drinking water.
+- Clean containers regularly using an appropriate method.
+- Clearly distinguish treated water from untreated water.
+
+The safety of treated water depends on both the treatment process
+and the way it is subsequently handled.
+
+
 ## Technology
 ### The 24-Hour Rule
 If a sealed, shaded storage environment cannot be guaranteed, all stored water must be re-purified after 24 hours.
@@ -49,6 +65,7 @@ Containers must be sealed tightly (screw cap, cork, fitted lid) to prevent entry
 - **Clay Pot Battery:** Use multiple clay pots (10-30 liters each) stored in a shaded, ventilated structure, sealed with beeswax or pine pitch if necessary.
 
 ## Process
+
 ### Step-by-Step: Storing Water Safely
 1. **Start clean:** Wash and rinse the container before filling, rinsing with purified water if soap is unavailable, and swirling the rinse water around interior surfaces.
 2. **Fill immediately after purification:** Pour water into the storage container while it is still warm from boiling.
@@ -73,12 +90,12 @@ Containers must be sealed tightly (screw cap, cork, fitted lid) to prevent entry
 | Floating particles | Mold, insect contamination | Filter, then boil |
 | Tastes metallic or chemical | Container leaching | Discard; switch containers |
 
-## Seasonal Considerations
+### Seasonal Considerations
 - **Summer:** Storage life is shortest. Prioritize underground storage and evaporative cooling.
 - **Winter:** Cold temperatures significantly extend storage life; prevent freezing only if the container can withstand expansion (glass, rigid plastic).
 - **Rainy season:** Humidity promotes mold on exteriors; inspect lids frequently; use rain to facilitate frequent rotation.
 
-## Key Takeaways
+### Key Takeaways
 - Storage is the second half of purification.
 - Seal tightly, store in the coolest/darkest location, and minimize air space.
 - The 24-hour rule is critical for unguaranteed storage environments.
@@ -86,7 +103,7 @@ Containers must be sealed tightly (screw cap, cork, fitted lid) to prevent entry
 - Rotation (using the oldest water first) and container cleaning are mandatory.
 - Trust your senses for emergency indicators.
 
-Notes
+### Notes
 - The source text explicitly states that purifying water solves only half the problem; storage management is equally critical.
 - The key takeaway emphasizes that recontamination is as effective as never purifying at all.
 - The process includes a crucial step (Step 2) to pour water into the storage container while it is still warm from boiling to help sterilize the container walls.

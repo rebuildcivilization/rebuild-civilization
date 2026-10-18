@@ -30,6 +30,7 @@ The bow drill functions by converting rotational energy into heat through mechan
 *   Tinder bundle (to transfer the ember).
 
 ## Process
+
 ### Step 1: Prepare the Fireboard
 1. Carve a small starter depression about 3/4 inch (2 cm) from the edge of the board.
 2. Burn in the hole first: place the spindle in the depression and bow back and forth until a dark, round socket about the diameter of the spindle is created.
@@ -56,7 +57,10 @@ The bow drill functions by converting rotational energy into heat through mechan
 1. Carefully tip the ember onto the tinder bundle (a bird’s-nest-shaped ball of fine, dry material).
 2. Fold the bundle loosely around the ember and blow steadily, increasing intensity until the bundle bursts into flame.
 
-## Troubleshooting
+![bow_drill.png](../images/fire/Bow_Drill_with_annotations.svg)
+
+
+### Troubleshooting
 | Problem | Likely Cause | Fix |
 | :--- | :--- | :--- |
 | No smoke at all | Wood too hard, wet, or resinous | Switch species; test with thumbnail |
@@ -66,12 +70,23 @@ The bow drill functions by converting rotational energy into heat through mechan
 | Spindle pops out | Too much lateral force | Lock wrist against shin; stay vertical |
 | Ember dies in tinder | Tinder too coarse or damp | Use finer, drier material; blow steadily |
 
-## Extending Your Set’s Life
+If the bow drill does not produce a usable ember, check the following:
+
+- **Spindle slips:** Adjust the cord tension and inspect the spindle and bow alignment.
+- **Excessive smoke without a coal:** Check material suitability, moisture, pressure, and the consistency of the movement.
+- **Dust does not accumulate:** Reassess the notch, the contact surface, and the pressure applied.
+- **The ember disappears:** Check the quality of the collected dust, the moisture of the materials, and the preparation of the tinder bundle.
+
+Change one variable at a time whenever possible. This makes it easier to identify the cause of failure.
+
+Friction-fire techniques require practice and should not be treated as a guaranteed emergency ignition method.
+
+### Extending Your Set’s Life
 *   A good fireboard can produce 8-12 embers before the notches wear out.
 *   Rotate to fresh spots along the board.
 *   Keep the kit dry—store it inside shelter or wrap it in bark.
 
-## Key Takeaways
+### Key Takeaways
 *   Use **dead, dry softwood** for both fireboard and spindle; same species is ideal.
 *   The notch is the most critical element: 1/8 circle (45-degree wedge), cut cleanly to the center of the burned socket.
 *   **Pressure matters more than speed**—lock your wrist against your shin and push down hard.

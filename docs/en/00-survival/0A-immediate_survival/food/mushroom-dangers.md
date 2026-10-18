@@ -1,4 +1,4 @@
-# Mushroom Dangers | Survival Wiki
+# Mushroom Dangers
 
 ## Objective
 To detail the unique dangers of mushroom poisoning, explain the identification requirements for deadly species, outline the amatoxin poisoning timeline, and establish a practical safety protocol for foraging.

@@ -258,11 +258,6 @@ The repository uses the following top-level structure:
 │
 ├── templates/
 │
-├── assets/
-│   ├── images/
-│   ├── diagrams/
-│   └── maps/
-│
 ├── scripts/
 │
 └── .github/

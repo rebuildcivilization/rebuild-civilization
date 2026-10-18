@@ -1,4 +1,4 @@
-# Natural Features | Survival Wiki
+# Natural Features
 
 ## Objective
 Part of Emergency Shelter. Natural features such as rock overhangs, caves, fallen trees, and dense vegetation can provide immediate shelter with minimal construction, as nature has already done most of the work.

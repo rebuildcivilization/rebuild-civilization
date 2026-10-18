@@ -1,4 +1,4 @@
-# Joint Relocation | Survival Wiki
+# Joint Relocation
 
 ## Objective
 To prevent permanent nerve damage and restore function within minutes by relocating a joint when it pops out of its socket and there is no hospital to drive to.

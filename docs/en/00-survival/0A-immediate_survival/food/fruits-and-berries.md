@@ -1,4 +1,4 @@
-# Fruits and Berries | Survival Wiki
+# Fruits and Berries
 
 ## Objective
 To teach readers how to tell the difference between wild berries and fruits, understand their survival value, identify safe and dangerous species, and learn methods for harvesting and preserving them.

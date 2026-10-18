@@ -1,4 +1,4 @@
-# CPR Technique | Survival Wiki
+# CPR Technique
 
 ## Objective
 To perform CPR when someone’s heart stops, which occurs when there are about 4-6 minutes before brain damage begins.

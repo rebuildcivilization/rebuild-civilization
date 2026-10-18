@@ -1,4 +1,4 @@
-# Body Indicators | Survival Wiki
+# Body Indicators
 
 ## Objective
 > Part of Weather Forecasting Using your own body’s physical responses to detect pressure and humidity changes before storms arrive.

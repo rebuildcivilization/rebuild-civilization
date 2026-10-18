@@ -1,4 +1,4 @@
-# Splicing Lengths | Survival Wiki
+# Splicing Lengths
 
 ## Objective
 To join fiber bundles seamlessly to turn short plant fibers into a rope of unlimited length. A good splice is invisible and as strong as the rope itself.

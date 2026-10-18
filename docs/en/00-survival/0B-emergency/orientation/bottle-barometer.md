@@ -89,4 +89,3 @@ The instrument relies on the principle that rising atmospheric pressure pushes d
 - [Accuracy and Expectations](#accuracy-and-expectations)
 - [Maintenance](#maintenance)
 
-Created with [Quartz v4.5.2](https://quartz.jzhao.xyz/) © 2026

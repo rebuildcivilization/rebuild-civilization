@@ -1,4 +1,4 @@
-# Cumulus Types | Survival Wiki
+# Cumulus Types
 
 ## Objective
 > Part of Weather Forecasting. The goal is to understand the progression from fair weather puffs to full thunderstorms and time the sequence.

@@ -1,4 +1,4 @@
-# Sunrise and Sunset Colors | Survival Wiki
+# Sunrise and Sunset Colors
 
 ## Objective
 > Part of Weather Forecasting

@@ -1,4 +1,4 @@
-# Lightning Distance | Survival Wiki
+# Lightning Distance
 
 ## Objective
 To calculate lightning distance, track storm movement, and make shelter decisions.

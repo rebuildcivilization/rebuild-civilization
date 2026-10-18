@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="780" viewBox="0 0 1100 780" role="img" aria-labelledby="title desc">
+<title id="title">Shelter and heat-loss principles</title>
+<desc id="desc">A conceptual cross-section showing ground insulation, wind and rain protection, body insulation, and ventilation considerations.</desc>
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#334155"/></marker>
+  <style>
+    .text{font-family:Arial,Helvetica,sans-serif;fill:#0f172a;font-size:23px;text-anchor:middle}
+    .small{font-family:Arial,Helvetica,sans-serif;fill:#334155;font-size:18px;text-anchor:middle}
+    .label{font-family:Arial,Helvetica,sans-serif;fill:#0f172a;font-size:20px;font-weight:700}
+    .line{fill:none;stroke:#334155;stroke-width:3;marker-end:url(#arrow)}
+  </style>
+</defs>
+<rect width="1100" height="780" fill="#ffffff"/>
+<text x="550" y="48" class="text" font-size="31" font-weight="700">SHELTER: REDUCING HEAT LOSS</text>
+<text x="550" y="78" class="small">Conceptual diagram — the best design depends on local hazards</text>
+<!-- ground -->
+<rect x="60" y="560" width="980" height="100" fill="#e7e5e4" stroke="#78716c" stroke-width="2"/>
+<path d="M60 560 Q150 545 240 560 T420 560 T600 560 T780 560 T960 560 T1040 560" fill="none" stroke="#78716c" stroke-width="3"/>
+<text x="550" y="615" class="text" font-weight="700">COLD / WET GROUND</text>
+<!-- shelter -->
+<path d="M190 550 L350 285 L750 285 L910 550" fill="#dbeafe" fill-opacity="0.75" stroke="#1d4ed8" stroke-width="5"/>
+<path d="M215 535 L365 315 L735 315 L885 535" fill="none" stroke="#60a5fa" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="550" y="250" class="text" font-weight="700">WEATHER BARRIER</text>
+<text x="550" y="278" class="small">Reduce wind and precipitation exposure</text>
+<!-- person, simplified -->
+<circle cx="550" cy="400" r="34" fill="#f8fafc" stroke="#334155" stroke-width="3"/>
+<path d="M550 434 L550 500 M550 455 L500 482 M550 455 L600 482 M550 500 L515 540 M550 500 L585 540" fill="none" stroke="#334155" stroke-width="12" stroke-linecap="round"/>
+<path d="M510 430 Q550 410 590 430 L600 500 Q550 520 500 500 Z" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="3"/>
+<text x="550" y="380" class="small">BODY</text>
+<!-- ground insulation -->
+<rect x="400" y="538" width="300" height="20" rx="5" fill="#a7f3d0" stroke="#047857" stroke-width="2"/>
+<text x="550" y="535" class="small">Insulating layer</text>
+<!-- labels and arrows -->
+<text x="90" y="170" class="label">WIND</text>
+<path d="M80 190 H230" class="line"/>
+<path d="M80 220 H210" class="line"/>
+<path d="M80 250 H190" class="line"/>
+<text x="90" y="310" class="label">RAIN</text>
+<path d="M100 330 L160 380" class="line"/>
+<path d="M130 310 L190 360" class="line"/>
+<text x="850" y="150" class="label">VENTILATION</text>
+<text x="850" y="178" class="small">When combustion or moisture</text>
+<text x="850" y="201" class="small">makes it necessary</text>
+<path d="M840 215 L770 285" class="line"/>
+<text x="850" y="385" class="label">BODY INSULATION</text>
+<text x="850" y="413" class="small">Keep insulation as dry as possible</text>
+<path d="M825 430 L610 462" class="line"/>
+<text x="245" y="700" class="label">GROUND INSULATION</text>
+<text x="245" y="728" class="small">Limits conductive heat loss</text>
+<path d="M365 690 L430 558" class="line"/>
+<text x="800" y="700" class="label">SITE SELECTION</text>
+<text x="800" y="728" class="small">Avoid flooding, falling branches, unstable ground</text>
+<path d="M800 675 L930 560" class="line"/>
+</svg>

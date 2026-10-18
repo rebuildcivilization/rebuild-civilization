@@ -1,4 +1,4 @@
-# Chemical Treatment | Survival Wiki
+# Chemical Treatment
 
 ## Objective
 Chemical disinfection uses oxidizing agents to kill pathogens in water when boiling is not possible, providing a fast alternative that requires no fire, no equipment, and almost no effort.
@@ -20,6 +20,18 @@ Chemical disinfection is a method of water purification that employs oxidizing a
 Cold water increases required contact time for some chemical treatments;
 chemical treatment and boiling are not equivalent;
 Cryptosporidium is particularly resistant to some chemical treatments.
+
+### Chemical Treatment Limitations
+
+Chemical water treatment must follow the instructions for the specific product being used.
+
+Required dosage and contact time depend on the active ingredient, product concentration, water temperature, turbidity, and other conditions specified by the manufacturer.
+
+Do not estimate a dosage from the appearance or smell of the water.
+
+Chemical disinfection does not necessarily remove dissolved chemicals, heavy metals, salts, or other non-biological contaminants.
+
+Do not combine treatment chemicals unless the product instructions explicitly permit it.
 
 ## Technology
 *   **Oxidizing Agents:** The core technology used to kill pathogens (chlorine, iodine, potassium permanganate).

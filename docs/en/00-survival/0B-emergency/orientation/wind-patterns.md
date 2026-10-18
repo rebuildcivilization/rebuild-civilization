@@ -1,4 +1,4 @@
-# Wind Patterns | Survival Wiki
+# Wind Patterns
 
 ## Objective
 To predict approaching weather systems and frontal passages using wind direction shifts and patterns.

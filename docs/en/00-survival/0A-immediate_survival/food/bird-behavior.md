@@ -1,4 +1,4 @@
-# Bird Behavior | Survival Wiki
+# Bird Behavior
 
 ## Objective
 To use birds as weather indicators by observing flight altitude, roosting patterns, and species-specific signals to predict or gauge atmospheric conditions.

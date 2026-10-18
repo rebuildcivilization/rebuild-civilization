@@ -1,4 +1,4 @@
-# Chlorine Sources | Survival Wiki
+# Chlorine Sources
 
 ## Objective
 This article catalogs every practical source of chlorine compounds for water disinfection — where to find them, how to assess potency, correct dosing for each form, and long-term storage to maintain a reliable supply.

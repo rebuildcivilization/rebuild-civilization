@@ -1,4 +1,4 @@
-# Sign Reading | Survival Wiki
+# Sign Reading
 
 ## Objective
 To interpret animal signs—scat, browse marks, beds, trails, and rubs—to determine which species are present, what they eat, and the exact locations to set traps.

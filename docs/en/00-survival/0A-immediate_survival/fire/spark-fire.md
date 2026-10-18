@@ -56,6 +56,23 @@ The system relies on generating high-temperature sparks to ignite tinder, bypass
 3.  **Sustaining tinders** (fatwood shavings, birch bark strips, wax-infused materials).
 *   **Layering Rule:** Build tinder bundles in layers: spark catcher in the center, flash tinder around it, and sustaining tinder on the outside.
 
+### Spark and Tinder Compatibility
+
+A spark is useful only if it can transfer sufficient energy to a suitable tinder material.
+
+Different ignition systems produce sparks with different temperatures, sizes, and persistence. Tinder must be selected for the specific ignition method.
+
+Before attempting ignition:
+
+- Prepare dry, fine tinder.
+- Protect it from wind and moisture.
+- Keep additional tinder and kindling ready.
+- Confirm that the spark source is compatible with the tinder.
+- Prepare a safe place to receive and expand the initial ember.
+
+A spark-producing tool should not be assumed to ignite every type of dry-looking plant material.
+
+
 ## Notes
 *   The sparks come from the **steel**, not the stone.
 *   Char cloth is nearly essential for flint-and-steel fire starting.

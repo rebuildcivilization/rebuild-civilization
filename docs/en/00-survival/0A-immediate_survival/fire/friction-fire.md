@@ -1,7 +1,8 @@
 # Bow Drill, Hand Drill, Fire Plough
 
 ## Objective
-To create fire by friction, which involves rubbing two pieces of wood together until fine dust accumulates in a notch and reaches roughly 400–450°C, coalescing into a glowing ember.
+To create fire by friction, which involves rubbing two pieces of wood together until fine dust accumulates in a notch and reaches roughly 250–315°C, coalescing into a glowing ember.
+The ignition temperature of wood is not a fixed value and depends on the conditions, the material and the process used.
 
 ## Dependencies and prerequisites
 *   Correct materials.
@@ -38,7 +39,8 @@ To create fire by friction, which involves rubbing two pieces of wood together u
 
 ## System
 **Technology: Friction Fire**
-Friction fire is the oldest ignition technology, relying on the physics where two pieces of wood rub together, generating heat through friction. The softer wood produces fine dust particles that collect in a notch. When the dust reaches roughly 400-450 degrees C (the ignition point of wood), it coalesces into a glowing ember.
+Friction fire is the oldest ignition technology, relying on the physics where two pieces of wood rub together, generating heat through friction. The softer wood produces fine dust particles that collect in a notch. When the dust reaches roughly 250–315 degrees C (the ignition point of wood), it coalesces into a glowing ember.
+The ignition temperature of wood is not a fixed value and depends on the conditions, the material and the process used.
 
 **Variables Determining Success:**
 1.  **Speed:** Faster friction generates heat faster.
@@ -64,28 +66,31 @@ Friction fire is the oldest ignition technology, relying on the physics where tw
 *   **Base board:** A flat piece of soft, dry wood at least 30 cm long, with a shallow groove 15-20 cm long down the center.
 
 ## Process
-**General Friction Process:** Rub two pieces of wood until dust reaches 400-450°C and coalesces into a glowing ember. Transfer the ember to a tinder bundle and blow steadily until flames erupt.
+**General Friction Process:** Rub two pieces of wood until dust reaches 250-315°C and coalesces into a glowing ember. Transfer the ember to a tinder bundle and blow steadily until flames erupt.
 
-**Method 1: Bow Drill Process**
-1.  **Setup:** Kneel with the left foot flat on the fireboard.
-2.  **Lock:** Hold the bearing block in the left hand, locking the wrist against the shin to create a rigid column.
-3.  **Setup:** Wrap the spindle into the bowstring with one wrap (spindle on the outside).
-4.  **Execution:** Begin with full-length bow strokes at a moderate, steady pace.
-5.  **Progression:** Increase speed slightly while maintaining or increasing pressure when smoke appears.
-6.  **Climax:** Apply maximum speed and pressure for 10-15 more strokes, then stop.
-7.  **Result:** Lift the spindle/fireboard. If dust smokes on its own, it is an ember. Transfer to tinder and blow.
+Friction fire is a group of techniques that generate heat through
+the relative movement of two materials.
 
-**Method 2: Hand Drill Process**
-1.  **Setup:** Place the spindle in the fireboard dimple, pressing palms flat against the spindle near the top.
-2.  **Execution:** Roll the spindle rapidly by moving hands back and forth in opposite directions (right hand forward, left hand back, then reverse).
-3.  **Mechanics:** Hands will creep downward; quickly reposition hands to the top and continue without pausing.
-4.  **Progression:** Continue for 1-5 minutes of sustained effort; apply maximum effort for 10-15 seconds when thick smoke rises continuously.
+The most important variables include:
 
-**Method 3: Fire Plough Process**
-1.  **Setup:** Hold the base board steady. Angle the board slightly so the far end is lower to collect dust.
-2.  **Execution:** Place the plough stick tip in the groove. Push forward with heavy downward pressure in rapid, full-length strokes, pulling back with lighter pressure.
-3.  **Progression:** Continue until the dust pile begins to smoke on its own.
-4.  **Result:** Tip the dust pile onto a catch tray and transfer to a tinder bundle.
+- Material selection and moisture content.
+- Contact geometry and surface condition.
+- Applied pressure.
+- Movement speed and consistency.
+- Heat retention around the contact area.
+- The ability to transfer a developing ember into suitable tinder.
+
+Different techniques distribute effort and pressure differently.
+A method that works well for one combination of materials may fail
+when the same technique is applied to unsuitable materials.
+
+Common methods include the 
+- [bow-drill](bow-drill.md)
+- [hand-drill](hand-drill.md)
+- [fire_plough](fire_plough.md)
+
+For construction details and step-by-step procedures, consult the individual technique pages.
+
 
 **Practice Schedule:**
 *   **Week 1:** Gather materials; practice carving spindles, preparing fireboards, and cutting notches; make 3-4 complete bow drill sets.

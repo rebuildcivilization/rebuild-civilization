@@ -1,4 +1,4 @@
-# Shock Treatment | Survival Wiki
+# Shock Treatment
 
 ## Objective
 To fix the underlying cause (stop bleeding, cool burns, rehydrate) while simultaneously supporting circulation.

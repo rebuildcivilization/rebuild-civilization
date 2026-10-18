@@ -1,4 +1,4 @@
-# Brining | Survival Wiki
+# Brining
 
 ## Objective
 To brine meat for preservation.

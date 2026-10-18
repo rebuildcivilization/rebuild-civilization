@@ -14,6 +14,8 @@ To test an unknown plant for safety in stages — each step limiting exposure be
 - Carcinogens and chronic toxins
 - Toxins that require large doses to produce symptoms
 
+**PLEASE NOTE:** this method is not scientifically reliable for ruling out toxicity. An empirical test cannot guarantee that a plant is safe to eat.
+
 ## Dependencies and prerequisites
 Before testing any plant, eliminate obvious dangers:
 1. **Rule out known toxic families:** If the plant belongs to a family known to contain deadly species (Apiaceae with purple-blotched stems, Solanaceae with black berries), identification trumps testing.

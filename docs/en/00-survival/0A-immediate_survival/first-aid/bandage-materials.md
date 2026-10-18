@@ -1,4 +1,4 @@
-# Bandage Materials | Survival Wiki
+# Bandage Materials
 
 ## Objective
 Part of First Aid. Improvised bandages from cloth, bark, and plant fibers keep wounds clean and protected when manufactured medical supplies no longer exist.

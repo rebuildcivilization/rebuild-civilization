@@ -1,4 +1,4 @@
-# River Assessment: Evaluating Flowing Water | Survival Wiki
+# River Assessment: Evaluating Flowing Water
 
 ## Objective
 To teach users how to systematically evaluate any flowing water source before relying on it for drinking water, understanding that not all rivers are equal.

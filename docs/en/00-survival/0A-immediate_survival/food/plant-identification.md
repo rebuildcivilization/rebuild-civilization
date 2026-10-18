@@ -123,14 +123,12 @@ Key observations include arrangement (alternate, opposite, whorled), shape (simp
 *   The definitive sequence is: habitat, growth form, leaves, stems, flowers, fruit, and *then* smell and taste.
 *   The most critical survival takeaway is the rule: 'When in doubt, walk away,' due to the high speed of poisoning effects.
 
-## Key Takeaways
+### Key Takeaways
 
 *   Follow the identification sequence to catch errors.
 *   Learn plant families to manage the knowledge load.
 *   Memorize the critical look-alike pairs.
 *   Adhere strictly to the 'Rules That Save Lives'.
-
----
 
 ## Table of Contents
 
@@ -148,9 +146,3 @@ Key observations include arrangement (alternate, opposite, whorled), shape (simp
 *   [The Rules That Save Lives](#the-rules-that-save-lives)
 *   [Building Your Local Knowledge](#building-your-local-knowledge)
 *   [Key Takeaways](#key-takeaways)
-
-Created with Quartz v4.5.2 © 2026
-
----
-
-[Download Offline Archive](/CivilizationRebuild-offline.zip)

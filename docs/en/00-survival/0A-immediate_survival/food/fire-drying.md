@@ -1,4 +1,4 @@
-# Fire Drying | Survival Wiki
+# Fire Drying
 
 ## Objective
 To dehydrate food.

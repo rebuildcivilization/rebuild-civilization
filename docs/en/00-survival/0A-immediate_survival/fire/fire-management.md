@@ -1,4 +1,4 @@
-# Fire Management | Survival Wiki
+# Fire Management
 
 ## Objective
 To master the three skills of survival fire management: maintaining a fire through varying conditions, banking it to preserve coals, and transporting fire to new locations. Starting a fire is identified as the first challenge.
@@ -119,11 +119,29 @@ A fire lit near shelter must also be planned with safety whilst sleeping in mind
    3. Transfer the embers to the channel.
    4. Use this area for cooking.
 
-### Fire extinguishing
-1. drown;
-2. stir;
-3. feel;
-4. repeat if hot spots remain.
+### Fire Safety and Extinguishing
+
+A fire must be managed according to the site, available fuel, weather, and local restrictions.
+
+Before lighting a fire:
+
+- Check local fire restrictions and emergency instructions.
+- Select a site away from dry vegetation and other combustible materials.
+- Consider wind direction, changing weather, and the possibility of flying embers.
+- Keep water, soil, or another suitable extinguishing resource available.
+- Never light a fire where smoke or combustion gases can accumulate in an enclosed or poorly ventilated space.
+
+Before leaving:
+
+1. Stop adding fuel.
+2. Extinguish the flames using an appropriate method.
+3. Wet and stir the remaining fuel and ashes where water is suitable.
+4. Check for concealed embers and hot material.
+5. Repeat until no heat or smoke remains.
+
+Never assume that a fire is extinguished merely because visible flames have disappeared.
+
+Do not use water on burning liquids or energized electrical equipment. Select an extinguishing method appropriate to the hazard.
 
 ## Notes
 - Buried fires must be located in mineral soil (clay, sand, gravel) to prevent underground ignition of root systems.

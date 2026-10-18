@@ -1,4 +1,4 @@
-# Seasonal Patterns | Survival Wiki
+# Seasonal Patterns
 
 ## Objective
 Part of Fishing Understanding when and where fish move throughout the year is the difference between a reliable food source and wasted effort. The objective is to understand fish movement to secure reliable food sources.

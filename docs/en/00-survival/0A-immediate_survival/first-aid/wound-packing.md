@@ -1,4 +1,4 @@
-# Wound Packing | Survival Wiki
+# Wound Packing
 
 ## Objective
 > Part of First Aid

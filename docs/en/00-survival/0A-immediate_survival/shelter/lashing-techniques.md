@@ -1,4 +1,4 @@
-# Lashing Techniques | Survival Wiki
+# Lashing Techniques
 
 ## Objective
 To lash two poles together rigidly.

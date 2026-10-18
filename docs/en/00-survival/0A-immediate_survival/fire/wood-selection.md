@@ -1,4 +1,4 @@
-# Wood Selection | Survival Wiki
+# Wood Selection
 
 ## Objective
 To determine whether smoked food is safely preserved with pleasant flavor or contaminated with toxic compounds based on the wood burned.
@@ -9,6 +9,20 @@ To determine whether smoked food is safely preserved with pleasant flavor or con
 *   A basic understanding of smoke quality indicators.
 
 ## Material
+
+### Selecting Wood by Condition
+Wood selection should be based on the actual properties of the available material rather than on species names alone.
+
+Assess:
+- Moisture content.
+- Decay, mold, and insect damage.
+- Resin content where relevant to the technique.
+- Grain direction and structural integrity.
+- Density and hardness relative to the intended use.
+
+A species that works well in one region or technique may perform poorly when collected in different conditions.
+
+Test a small sample whenever possible before preparing the full set of components.
 
 ### Wood Types
 *   **Hardwoods:** Must be used; specifically from deciduous trees.

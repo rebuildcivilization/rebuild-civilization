@@ -1,4 +1,4 @@
-# Charcoal Making | Survival Wiki
+# Charcoal Making
 
 ## Objective
 To make charcoal by heating wood without oxygen (pyrolysis) until water and volatile compounds are driven off, leaving nearly pure carbon that burns hot enough to smelt copper and forge iron.

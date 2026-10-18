@@ -1,4 +1,4 @@
-# Anvil Tops | Survival Wiki
+# Anvil Tops
 
 ## Objective
 To reveal storm severity, direction, and intensity at a glance by observing the flat, spreading top of a thunderstorm.

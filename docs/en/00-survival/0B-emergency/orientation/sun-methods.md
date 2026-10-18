@@ -1,4 +1,4 @@
-# Sun Methods | Survival Wiki
+# Sun Methods
 
 ## Objective
 To find direction using the sun as the most reliable daytime direction finder on Earth.

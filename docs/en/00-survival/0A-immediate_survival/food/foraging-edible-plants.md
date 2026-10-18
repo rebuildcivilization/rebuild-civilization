@@ -70,7 +70,8 @@ Universal Edibility Testing (UET) as a systematic safety protocol.
 - Fire for cooking
 
 ## Process
-**Universal Edibility Test (UET) Protocol (24 Hours):
+
+### Universal Edibility Test (UET) Protocol (24 Hours):
 
 1. **Step 1:** Test only ONE plant part at a time (root, stem, leaves, flowers, fruit).
 2. **Step 2:** Fast for 8 hours before starting the test.
@@ -82,13 +83,13 @@ Universal Edibility Testing (UET) as a systematic safety protocol.
 8. **Step 8:** If no reaction after 8 hours, eat a small handful of the same plant part prepared the same way. Wait another 8 hours.
 9. **Step 9:** If still no reaction, this specific part of this specific plant, prepared in this specific way, is likely safe to eat in moderate quantities.
 
-**Acorn Processing Process:
+### Acorn Processing Process:
 1. Collect ripe acorns (brown, falling from the tree); discard those with visible holes (weevils).
 2. Shell the acorns and break the nutmeat into small pieces.
 3. Leach the tannins: Place crushed acorn meat in a container of water. Change the water repeatedly (cold leaching via soaking or hot leaching via boiling water). The process continues until the acorn meat no longer tastes bitter.
 4. Taste-test: when the acorn meat no longer tastes bitter, it is ready. Dry it and grind into flour, or roast the pieces.
 
-**Processing Plants That Need It:
+### Processing Plants That Need It:
 - Acorns: Must leach tannins.
 - Elderberries: Must be cooked (raw cause nausea and vomiting).
 - Fiddlehead ferns: Boil thoroughly (raw can cause food poisoning).
@@ -120,21 +121,3 @@ Universal Edibility Testing (UET) as a systematic safety protocol.
 > **Universal Edibility Test:** Skin → lip → tongue → chew (15 min each) → swallow → wait 8 hours → eat small amount → wait 8 hours. One plant part at a time.
 > **Processing required:** Acorns (leach), elderberries (cook), nettles (cook), fiddleheads (boil).
 > **Never eat wild mushrooms** unless trained by someone who already knows them.
-
-## Table of Contents
-- Foraging Edible Plants
-- The Cardinal Rule
-- What You Need
-- Danger Signs: Plants to Avoid
-- The Universal Edibility Test (UET)
-- Reliably Safe Plant Categories
-- Dandelion (Taraxacum officinale)
-- Cattail (Typha)
-- Pine Trees (Pinus)
-- Acorns (Quercus — Oak Trees)
-- Berry Rules of Thumb
-- Seasonal Foraging Calendar (Temperate Climate)
-- Processing Plants That Need It
-- Common Mistakes
-- What’s Next
-- Quick Reference Card

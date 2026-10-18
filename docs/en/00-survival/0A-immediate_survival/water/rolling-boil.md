@@ -1,4 +1,4 @@
-# Rolling Boil Method | Survival Wiki
+# Rolling Boil Method
 
 ## Objective
 To make water safe to drink by killing every waterborne pathogen using the single most reliable field method available when fire and a container are present.

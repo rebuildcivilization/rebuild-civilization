@@ -1,4 +1,4 @@
-# Seasonal Changes | Survival Wiki
+# Seasonal Changes
 
 ## Objective
 To understand that plants look radically different across the year and to know what to look for in each phase of their annual cycle, which requires understanding phenology (the seasonal cycle of growth, flowering, fruiting, and dormancy).

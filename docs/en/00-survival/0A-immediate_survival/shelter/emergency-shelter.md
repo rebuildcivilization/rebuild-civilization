@@ -29,6 +29,25 @@ Exposure kills in as little as 3 hours in cold, wet, or windy conditions (hypoth
 *   **Tools Required (General):** Knots and cordage for securing structures.
 
 ## Process
+
+### Choosing an Emergency Shelter
+
+Select a shelter according to the most immediate environmental threats and the resources available.
+
+Consider:
+- Wind exposure and expected wind direction.
+- Rainfall, runoff, and the possibility of flooding.
+- Ground moisture and heat loss.
+- Ambient temperature and the need for insulation.
+- Available construction materials.
+- Time and energy required to build the shelter.
+- Hazards from falling branches, unstable ground, or nearby water.
+
+A shelter that protects against wind may provide little insulation.
+A waterproof cover may still lose heat rapidly if the occupant is exposed to cold ground or wet clothing.
+
+Prioritize protection from the dominant hazard instead of trying to construct the most elaborate shelter possible.
+
 ### Method 1: Debris Hut (Best No-Tool Shelter)
 1.  **Find a ridgepole:** A sturdy, straight branch or small tree trunk about 3 meters long.
 2.  **Prop the ridgepole:** Prop one end on a stump or rock at waist height; the other end rests on the ground (head position).

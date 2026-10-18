@@ -1,4 +1,4 @@
-# Poisonous Plants | Survival Wiki
+# Poisonous Plants
 
 ## Objective
 To inform the reader that in a post-collapse world without hospitals, eating the wrong plant is a death sentence, emphasizing that avoiding deadly species is more valuable than knowing what to eat.

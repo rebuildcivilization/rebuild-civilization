@@ -1,4 +1,4 @@
-# Deadfall Traps | Survival Wiki
+# Deadfall Traps
 
 ## Objective
 To create the most mechanically simple lethal trap: a heavy weight propped by a trigger that collapses onto an animal that disturbs the bait, killing it instantly with no cordage, no moving parts, and nothing to fail.

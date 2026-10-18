@@ -85,6 +85,19 @@ Dry or preserve the surplus as soon as possible.
 Use the offal where appropriate.
 Protect the food from animals, insects and contamination.
 
+Food preservation methods differ in their mechanisms and safety requirements.
+
+- **Drying:** Reduces moisture available for microbial growth.
+- **Salting and brining:** Use salt under appropriate conditions to inhibit susceptible microorganisms.
+- **Fermentation:** Uses controlled microbial activity to transform food.
+- **Smoking:** May contribute to drying and preservation, depending on the process.
+- **Cold storage:** Slows deterioration but does not sterilize food.
+- **Other preservation methods:** Require process-specific controls and must be evaluated individually.
+
+These methods are not interchangeable. Their effectiveness depends on the food, processing conditions, temperature, moisture, and storage environment.
+
+Preserved food must not be assumed safe merely because it looks, smells, or tastes normal.
+
 **Method 1: Sun Drying (Jerky and Dried Fruit)**
 1. Cut meat into thin strips (no thicker than 5 mm), cutting with the grain for jerky, against the grain for brittle jerky. Remove all visible fat.
 2. Build a drying rack from green wood (two Y-shaped uprights with crossbars), elevating it at least 60 cm (2 feet) off the ground.

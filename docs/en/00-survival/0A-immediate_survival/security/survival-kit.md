@@ -9,7 +9,7 @@ Putting together a survival kit suited to the environment and the way it is carr
 - season;
 - possibility of rescue.
 
-## Equipment
+## Material
 Break down into:
 - fire;
 - water;
@@ -27,6 +27,19 @@ Include the principle:
 
 the kit must be organised in layers and critical items must remain accessible even if the rucksack is lost.
  
+### Layered Kit Design
+A survival kit should be adapted to the expected hazards, climate, duration, mobility requirements, and likelihood of rescue.
+
+Organize equipment in layers:
+
+- **On-person essentials:** Items that remain accessible if the main pack is lost.
+- **Immediate-access equipment:** Items needed quickly for shelter, water, communication, or first aid.
+- **Main pack:** Equipment for sustained needs and less immediate tasks.
+
+Prioritize reliable equipment and redundancy for critical functions.
+
+A compact kit can provide a useful starting point, but no fixed list of items is suitable for every environment or emergency.
+
 ## Technology
 - multi-purpose equipment;
 - redundancy;
@@ -34,7 +47,7 @@ the kit must be organised in layers and critical items must remain accessible ev
 - modular packing.
 
 ## Tools
- 
+
 Give examples, not a mandatory universal list:
 - knife;
 - metal container;

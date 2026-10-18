@@ -1,4 +1,4 @@
-# Small Dose Phase | Survival Wiki
+# Small Dose Phase
 
 ## Objective
 The small dose phase is the critical ingestion stage of the Universal Edibility Test — the point where a plant enters your digestive system for the first time. This is where systemic toxins reveal themselves.

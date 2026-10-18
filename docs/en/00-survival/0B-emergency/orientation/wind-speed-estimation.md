@@ -1,4 +1,4 @@
-# Wind Speed Estimation | Survival Wiki
+# Wind Speed Estimation
 
 ## Objective
 To estimate wind speed without instruments for weather and shelter decisions using the Beaufort scale and visual indicators.

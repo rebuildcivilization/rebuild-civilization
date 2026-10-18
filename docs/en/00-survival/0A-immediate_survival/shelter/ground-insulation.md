@@ -42,6 +42,9 @@ In temperatures below -5°C (23°F), a multi-layer system is recommended:
 *   Tools are implied for harvesting (cutting branches, harvesting bark slabs).
 
 ## Process
+
+![Shelter Heat Loss](../images/shelter/shelter-heat-loss.svg)
+
 ### Bough Bed Construction Steps
 1. **Clear the ground**: Remove rocks, roots, and debris to create a flat surface roughly 60 cm × 200 cm (2 × 6.5 feet).
 2. **Lay containment logs** (optional): Place two logs, 10-15 cm (4-6 inches) in diameter, parallel along the long edges to prevent spreading.

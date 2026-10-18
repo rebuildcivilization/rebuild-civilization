@@ -1,4 +1,4 @@
-# Tarp Configurations | Survival Wiki
+# Tarp Configurations
 
 ## Objective
 Part of Emergency Shelter. A flat sheet of waterproof material is one of the most versatile survival tools in existence. Knowing five or six configurations lets you adapt to any weather, terrain, or group size with a single piece of fabric.

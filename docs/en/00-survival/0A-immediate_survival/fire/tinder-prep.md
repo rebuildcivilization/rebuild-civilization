@@ -29,6 +29,24 @@ Fire-starting follows the chain: ignition source → tinder → kindling → fue
 - Metal tin (for char cloth preparation and storage).
 
 ## Process
+
+### Tinder Preparation and Storage
+
+Tinder must be prepared before ignition is attempted.
+
+Separate material into:
+
+- Fine tinder for catching a spark or receiving an ember.
+- Intermediate fibers that help the initial ignition grow.
+- Small kindling that can sustain a flame.
+- Larger fuel that maintains the fire.
+
+Keep prepared tinder dry and protected from contamination.
+
+When possible, carry a small reserve of prepared tinder separately
+from the main supply. This provides redundancy if the first bundle
+becomes wet or is accidentally lost.
+
 ### Char Cloth Making
 1. Cut fabric into squares roughly 2x2 inches (5x5 cm).
 2. Pack the tin with fabric pieces, leaving a little room.

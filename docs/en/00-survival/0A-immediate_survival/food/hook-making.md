@@ -1,4 +1,4 @@
-# Hook Making | Survival Wiki
+# Hook Making
 
 ## Objective
 To create effective fish hooks by utilizing materials that possess the key properties: a point sharp enough to penetrate mouth tissue, a bend or angle that prevents the fish from ejecting it, and enough structural strength to hold under the pull of the fish and your line.

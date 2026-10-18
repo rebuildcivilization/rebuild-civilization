@@ -1,4 +1,4 @@
-# Ridgepole Selection | Survival Wiki
+# Ridgepole Selection
 
 ## Objective
 To select the single most important structural element of any debris shelter, the ridgepole, ensuring the entire structure successfully withstands the night.

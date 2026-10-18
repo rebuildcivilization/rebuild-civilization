@@ -1,4 +1,4 @@
-# Finding Fish | Survival Wiki
+# Finding Fish
 
 ## Objective
 To determine where fish concentrate by understanding the overlap of the four requirements fish need: Food, Oxygen, Temperature, and Shelter.
@@ -125,6 +125,5 @@ The process involves:
 5. Looking for explicit signs of presence.
 
 ## Notes
-- The source text includes a mechanism for downloading an offline archive with free lifetime updates.
 - The system relies heavily on predictable patterns for fish behavior, including seasonal migration.
 - The four needs (Food, Oxygen, Temperature, Shelter) are the foundational elements for the entire finding process.

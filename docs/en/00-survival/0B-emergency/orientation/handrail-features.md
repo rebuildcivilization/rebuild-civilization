@@ -1,4 +1,4 @@
-# Handrail Features | Survival Wiki
+# Handrail Features
 
 ## Objective
 Part of Navigation Without Technology. A handrail is any long, continuous landscape feature you can follow without needing a compass or bearings.

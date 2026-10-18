@@ -1,4 +1,4 @@
-# Chamber Design | Survival Wiki
+# Chamber Design
 
 ## Objective
 The primary objective of chamber design is to create a smoking chamber that preserves food by utilizing heat, antimicrobial compounds in smoke, and dehydration, ensuring smoke circulates around all surfaces to prevent spoilage.

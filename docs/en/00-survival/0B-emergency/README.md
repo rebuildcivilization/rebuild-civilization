@@ -47,7 +47,7 @@ Define the essential action for manage the first emergency, about first week/mon
 - [terrain-reading](orientation/terrain-reading.md)
 - [triangulation](orientation/triangulation.md)
 - [weather-adaptations](orientation/weather-adaptations.md)
-- [water-crossings](orientation/water-crossings.md)
+- [water-crossing](orientation/water-crossing.md)
 - [weather-forecasting](orientation/weather-forecasting.md)
 - [wind-direction-reading](orientation/wind-direction-reading.md)
 - [wind-patterns](orientation/wind-patterns.md)

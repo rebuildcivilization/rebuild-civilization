@@ -1,4 +1,4 @@
-# Heat, Cold, Water | Survival Wiki
+# Heat, Cold, Water
 
 ## Objective
 To provide first aid guidance for environmental injuries caused by Heat, Cold, and Water, emphasizing that without climate-controlled buildings, central heating, or air conditioning, these injuries are leading causes of death.

@@ -1,4 +1,4 @@
-# Plant Growth Patterns | Survival Wiki
+# Plant Growth Patterns
 
 ## Objective
 To use plant growth patterns as a navigational toolkit to encode directional information, allowing for navigation day and night in any weather without equipment.

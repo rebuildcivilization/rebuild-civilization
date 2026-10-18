@@ -1,4 +1,4 @@
-# Fly Tying | Survival Wiki
+# Fly Tying
 
 ## Objective
 To tie functional fishing flies without a fly shop.

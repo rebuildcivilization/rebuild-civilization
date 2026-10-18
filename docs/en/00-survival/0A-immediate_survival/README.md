@@ -2,6 +2,21 @@
 
 Define the essential action for survival, about first 72 hours.
 
+**Recommended Learning Order**
+
+Start with the general principles before studying individual techniques.
+
+1. Survival priorities and immediate risk assessment.
+2. Water safety and treatment.
+3. Shelter, insulation, and environmental protection.
+4. Fire preparation and ignition.
+5. Basic first aid and emergency recognition.
+6. Food safety and resource procurement.
+7. Specialized techniques adapted to local conditions.
+
+Individual technique pages should be read together with their corresponding general topic pages.
+
+
 ## Priorities
 [Survival priorities](survival-priorities.md)
 
@@ -16,17 +31,18 @@ Define the essential action for survival, about first 72 hours.
 
 ## fire
 
-- [bow-drill](fire/bow-drill.md)
-- [charcoal-basics](fire/charcoal-basics.md)
 - [fire-making](fire/fire-making.md)
+    - [tinder-prep](fire/tinder-prep.md)
+    - [friction-fire](fire/friction-fire.md)
+        - [bow-drill](fire/bow-drill.md)
+        - [hand-drill](fire/hand-drill.md)
+        - [fire_plough](fire_plough.md)
+    - [charcoal-basics](fire/charcoal-basics.md)
+    - [fire-in-rain](fire/fire-in-rain.md)
 - [fire-management](fire/fire-management.md)
-- [fire_in_rain](fire/fire_in_rain.md)
-- [friction-fire](fire/friction-fire.md)
-- [hand-drill](fire/hand-drill.md)
 - [heat-reflection](fire/heat-reflection.md)
-- [spark-fire](fire/spark-fire.md)
-- [tinder-prep](fire/tinder-prep.md)
 - [wood-selection](fire/wood-selection.md)
+- [spark-fire](fire/spark-fire.md)
 
 ## first-aid
 

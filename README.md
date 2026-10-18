@@ -55,7 +55,6 @@ See:
 - `knowledge/` — structured knowledge
 - `sources/` — source catalog
 - `templates/` — document templates
-- `assets/` — visual resources
 - `scripts/` — automation and validation
 
 See [ARCHITECTURE.md](ARCHITECTURE.md) for the complete project architecture.

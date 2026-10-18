@@ -1,4 +1,4 @@
-# Seasonal Foraging Calendar | Survival Wiki
+# Seasonal Foraging Calendar
 
 ## Objective
 The primary objective is to provide a planning tool to ensure survival by knowing when to harvest edible plants, preventing energy waste on unavailable resources, and planning for monthly shifts in diet.

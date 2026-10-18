@@ -19,6 +19,39 @@ To kill all bacteria, viruses, and parasites in water to ensure survival, as dir
 ## System
 Water Purification employs several methods, including Boiling, Filtration, Solar Still (Evaporation/Condensation), and UV Treatment (SODIS).
 
+### Understanding Water Treatment Limitations
+
+Water clarification, filtration, and disinfection are different
+processes and must not be treated as interchangeable.
+
+- **Clarification** removes visible suspended material.
+- **Filtration** removes contaminants according to the filter's
+  design and performance.
+- **Disinfection** inactivates susceptible disease-causing
+  microorganisms.
+- **Chemical treatment** depends on the product, concentration,
+  water conditions, and required contact time.
+- **Solar disinfection** is effective only under suitable conditions
+  and with an appropriate procedure.
+
+A simple cloth, sand, gravel, or charcoal filter must not be assumed
+to make microbiologically contaminated water safe to drink.
+
+Ordinary charcoal is not equivalent to a validated activated-carbon
+filter. Neither should be assumed to remove all chemical contaminants.
+
+Boiling can control many important biological hazards, but it does
+not reliably remove dissolved chemicals, heavy metals, salts, or
+other non-volatile contaminants. Some contaminants may become more
+concentrated as water evaporates.
+
+Whenever possible, select a source with the lowest contamination risk
+and use a treatment method appropriate to the suspected hazards.
+
+If chemical contamination is suspected, do not assume that boiling
+or improvised filtration will make the water safe.
+
+
 ## Technology
 - **Heat-based Disinfection (Boiling):** Uses high heat to kill pathogens.
 - **Ultraviolet Radiation (SODIS):** Uses the sun’s ultraviolet radiation to kill pathogens.
@@ -44,12 +77,14 @@ Water Purification employs several methods, including Boiling, Filtration, Solar
 6. Transpiration bags (tie plastic bag over leafy branches).
 7. Snow and ice (MELT FIRST, then purify).
 
-Snow must be melted before consumption;
+Snow must be melted before consumption; don’t automatically assume that snow is safe.
 Ice contains more water per unit volume than snow, so it is generally more efficient to melt;
 Do not put snow or ice directly into your mouth;
 Use body heat to melt snow whilst on the move, placing it in a container or bag between layers of clothing, not in direct contact with the skin;
-Do not use fuel to melt snow when drinking water is available
+Do not use fuel to melt snow when drinking water is available.
 
+
+![Water Treatment Decision](../images/water/water-treatment-decision.svg)
 
 ### Water Purification Methods
 

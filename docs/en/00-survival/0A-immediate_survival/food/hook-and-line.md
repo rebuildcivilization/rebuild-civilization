@@ -1,4 +1,4 @@
-# Hook and Line | Survival Wiki
+# Hook and Line
 
 ## Objective
 The objective is to employ the simplest and most energy-efficient method of catching fish, using a hook, a line, and patience, which will feed the survivor when nets and traps are not yet built.

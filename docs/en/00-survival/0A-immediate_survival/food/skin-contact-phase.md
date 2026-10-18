@@ -1,4 +1,4 @@
-# Skin Contact Phase | Survival Wiki
+# Skin Contact Phase
 
 ## Objective
 The Skin Contact Phase is Phase 1 of the Universal Edibility Test. Its objective is to serve as the first physical defense against toxic plants, allowing for the detection of contact irritants and caustic compounds before the plant is consumed.

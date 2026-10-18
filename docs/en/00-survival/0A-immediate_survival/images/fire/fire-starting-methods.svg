@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="800" viewBox="0 0 1100 800" role="img" aria-labelledby="title desc">
+<title id="title">Choosing a fire-starting method</title>
+<desc id="desc">Comparison of common ignition methods, required resources, and limitations.</desc>
+<defs>
+  <style>
+    .head{font-family:Arial,Helvetica,sans-serif;fill:#0f172a;font-size:30px;font-weight:700;text-anchor:middle}
+    .sub{font-family:Arial,Helvetica,sans-serif;fill:#334155;font-size:18px;text-anchor:middle}
+    .cell{fill:#f8fafc;stroke:#64748b;stroke-width:2}
+    .method{fill:#e0f2fe;stroke:#0369a1;stroke-width:2}
+    .text{font-family:Arial,Helvetica,sans-serif;fill:#0f172a;font-size:20px;text-anchor:middle}
+    .bold{font-family:Arial,Helvetica,sans-serif;fill:#0f172a;font-size:21px;font-weight:700;text-anchor:middle}
+  </style>
+</defs>
+<rect width="1100" height="800" fill="#ffffff"/>
+<text x="550" y="48" class="head">CHOOSING A FIRE-STARTING METHOD</text>
+<text x="550" y="78" class="sub">Choose according to conditions, available resources, and practiced skill</text>
+<!-- table -->
+<rect x="45" y="120" width="1010" height="74" class="method"/>
+<rect x="45" y="194" width="1010" height="125" class="cell"/>
+<rect x="45" y="319" width="1010" height="125" class="cell"/>
+<rect x="45" y="444" width="1010" height="125" class="cell"/>
+<rect x="45" y="569" width="1010" height="125" class="cell"/>
+<path d="M295 120 V694 M625 120 V694" stroke="#64748b" stroke-width="2"/>
+<text x="170" y="165" class="bold">METHOD</text>
+<text x="460" y="165" class="bold">RESOURCES</text>
+<text x="840" y="165" class="bold">MAIN LIMITATIONS</text>
+<text x="170" y="245" class="bold">Lighter / matches</text>
+<text x="460" y="235" class="text">Ignition device and</text><text x="460" y="262" class="text">usable fuel / dry matches</text>
+<text x="840" y="235" class="text">Can be wet, damaged,</text><text x="840" y="262" class="text">lost, or exhausted</text>
+<text x="170" y="370" class="bold">Ferro rod / striker</text>
+<text x="460" y="360" class="text">Compatible striker,</text><text x="460" y="387" class="text">prepared tinder</text>
+<text x="840" y="360" class="text">Requires suitable tinder</text><text x="840" y="387" class="text">and practiced technique</text>
+<text x="170" y="495" class="bold">Bow drill</text>
+<text x="460" y="485" class="text">Suitable wood, cord,</text><text x="460" y="512" class="text">bow, spindle, tinder</text>
+<text x="840" y="485" class="text">Needs practice, suitable</text><text x="840" y="512" class="text">materials, and effort</text>
+<text x="170" y="620" class="bold">Hand drill</text>
+<text x="460" y="610" class="text">Suitable spindle,</text><text x="460" y="637" class="text">fireboard, tinder</text>
+<text x="840" y="610" class="text">Physically demanding;</text><text x="840" y="637" class="text">success is not guaranteed</text>
+<rect x="95" y="720" width="910" height="48" rx="12" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="550" y="750" class="text">Prepare dry tinder and kindling before attempting ignition. Follow local fire restrictions.</text>
+</svg>

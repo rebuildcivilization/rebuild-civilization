@@ -76,4 +76,3 @@ The principle relies on the fact that fish swim forward, following walls, curren
 - Double funnels nearly eliminate escapes for critical food-production scenarios.
 - Always test the funnel before deployment — the throat must flex open from outside but resist from inside.
 
-Created with Quartz v4.5.2 © 2026

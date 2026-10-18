@@ -1,4 +1,4 @@
-# Terrain Reading | Survival Wiki
+# Terrain Reading
 
 ## Objective
 Understanding drainage patterns, wind behavior, and natural hazards lets you read the landscape like a map — and pick shelter sites that won’t try to kill you overnight.

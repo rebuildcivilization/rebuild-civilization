@@ -1,4 +1,4 @@
-# Splinting | Survival Wiki
+# Splinting
 
 ## Objective
 Part of First Aid. A splint's single job is to hold broken bones still so they can heal in the right position. Doing it well turns a crippling injury into a full recovery; doing it poorly causes more damage than the break itself.

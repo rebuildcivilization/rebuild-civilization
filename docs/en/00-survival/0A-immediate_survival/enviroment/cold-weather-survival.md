@@ -51,12 +51,28 @@ It’s better to wear synthetic or woollen clothing than cotton in cold weather.
 
 ## System
 
-### Heat Management
+### Cold-Weather Risk Management
 
+Cold-weather survival requires managing heat loss while avoiding unnecessary exhaustion and moisture accumulation.
+
+Priorities include:
+
+- Protecting the head, hands, feet, and other exposed areas.
+- Keeping clothing and insulation as dry as possible.
+- Reducing exposure to wind and precipitation.
+- Insulating the body from cold ground.
+- Adjusting activity and clothing to avoid excessive sweating.
+- Recognizing early signs of cold-related illness.
+- Establishing a safe shelter before exhaustion prevents further work.
+
+Wet clothing, wind, fatigue, and inadequate insulation can combine to increase heat loss rapidly.
+
+Do not rely on a fire as the only means of protection. A suitable shelter, dry insulation, and appropriate clothing remain essential.
+
+### Heat Management
 Protect the body's core first.
 
 Reduce heat loss by:
-
 * Staying dry.
 * Blocking wind.
 * Insulating from the ground.
@@ -79,22 +95,18 @@ It is advisable to wear three layers:
 
 
 ### Feet
-
 Feet are particularly vulnerable during prolonged cold and wet exposure.
 
 Keep them:
-
 * Dry.
 * Warm.
 * Clean.
 * Regularly inspected.
 
 ### Hydration
-
 Cold weather does not eliminate the need for water.
 
 Heavy clothing and physical activity can still result in significant water loss.
-
 
 ## Technology
 
